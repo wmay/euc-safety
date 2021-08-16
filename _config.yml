@@ -17,8 +17,8 @@ title: EUC Safety Guides
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of guides for staying safe and happy on electric unicycles.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/euc-safety/" # the subpath of your site, e.g. /blog
+url: "https://wmay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: wmay
 
