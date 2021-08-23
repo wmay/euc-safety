@@ -1,0 +1,14 @@
+.popular {
+    font-size: 20px;
+    font-style: italic;
+    background-color: #E4E4E4;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    padding-left: 6px;
+    padding-top: 5px;
+    border: 1px solid #aaa;
+    border-left: 5px solid #0af;
+}
+.popular::before {
+    content: "Popular Choice: ";
+}
