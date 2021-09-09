@@ -12,7 +12,13 @@ layout: default
   </header>
 
   {%- if page.popular -%}
-  <p class="popular">{{ page.popular }}</p>
+  <p class="popular">
+      {%- if page.popular_url -%}
+      <a href="{{ page.popular_url }}">{{ page.popular }}</a>
+      {%- else -%}
+      {{ page.popular }}
+      {%- endif -%}
+  </p>
   {%- endif -%}
   
   <div class="post-content e-content" itemprop="articleBody">
