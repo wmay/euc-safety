@@ -13,11 +13,10 @@ This website is just a collection of my notes on these issues. I hope it's
 helpful.
 
 Currently there's [an overview]({{ site.baseurl }}{% post_url
-2021-07-24-safety-overview %}), with comments on how to choose gear and what to
-protect against, and a [helmets page]({{ site.baseurl }}{% post_url
-2021-07-22-helmets %}) is partly complete. A page on [limb/torso impact
-protection]({{ site.baseurl }}{% post_url 2021-09-24-limbs %}) is coming
-together but still a bit messy.
+2021-07-24-overview %}), with comments on how to choose gear and what to protect
+against, and a [helmets page]({{ site.baseurl }}{% post_url 2021-07-22-helmets
+%}) is partly complete. A page on [limb/torso impact protection]({{ site.baseurl
+}}{% post_url 2021-09-24-limbs %}) is coming together but still a bit messy.
 
 **Disclaimer: This site is a work in progress. Relevant information is probably
 missing and some details may even be incorrect. Take these recommendations with
