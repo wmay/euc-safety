@@ -6,8 +6,8 @@ layout: home
 ---
 
 So you've seen some videos of electric unicycle crashes, and heard about broken
-ribs and shoulders and other serious injuries. What kind of protective gear
-do you need to stay safe and how do you keep this from happening to you?
+ribs and shoulders and other serious injuries. What kind of protective gear do
+you need to stay safe?
 
 This website is just a collection of my notes on these issues. I hope it's
 helpful.
