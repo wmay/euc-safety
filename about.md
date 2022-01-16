@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website is just an attempt to organize my safety gear notes into something
+that's useful for other people. (I guess I watched too many youtube videos about
+crashes and injuries.)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+There's a lot of information to cover for this topic, so I'm open to suggestions
+and pointers to useful info. The best way to suggest a change is to open an
+issue on the [github
+repository](https://github.com/wmay/euc-safety/issues). Obviously I won't be
+able to agree with every rider on every issue, but I'll at least try to correct
+factual errors and include important issues that I might have missed.
