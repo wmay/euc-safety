@@ -18,7 +18,3 @@ strongly recommended. It's also a good idea to wear knee, elbow and other
 
 Pages on abrasion resistance (protection from road rash) and foot gear are
 planned but not ready yet.
-
-**Disclaimer: This site is a work in progress. Relevant information is probably
-missing and some details may even be incorrect. Take these recommendations with
-a grain of salt.**
