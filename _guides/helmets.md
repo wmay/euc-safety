@@ -159,8 +159,23 @@ which should address these concerns.
 
 # Motorcycle Helmet Certifications
 
-<!-- Snell has been criticized for requirements that ... bulky, so DOT and ECE are -->
-<!-- probably the more relevant standards for EUCs. -->
+Out of the most common helmet certifications, the European ECE certification
+seems to be the closest match to EUC riding. DOT certification is widely
+considered to be unreliable, and Snell is known for requiring the highest levels
+of impact protection.
+
+DOT
+: Terrible. Study show helmets often don't even meet DOT standards.
+
+ECE
+: Reasonable.
+
+Snell
+: Big on impact protection. A Snell-certified helmet would be a good choice if
+  you want to prioritize impact protection over other considerations.
+
+SHARP
+: Useful.
 
 # Eye protection
 

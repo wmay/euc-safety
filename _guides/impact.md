@@ -27,7 +27,7 @@ motorcycle clothing are both mostly good choices, assuming the pads stay in
 place. Knees are an exception where hard shells may be more protective.
 
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
-clothing]({{ site.baseurl }}{% post_url 2021-07-24-abrasion %}) with internal
+clothing]({{ site.baseurl }}{% link _guides/abrasion.md %}) with internal
 pads. Not only will this clothing protect you from road rash, it will also hold
 the pads in place during a slide.
 
