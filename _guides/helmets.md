@@ -157,25 +157,25 @@ and heavier, they may rotate less.) However, there are some motorcycle helmets
 with Mips available. The new ECE 22.06 standard also includes a rotation test,
 which should address these concerns.
 
-# Motorcycle Helmet Certifications
+<!-- # Motorcycle Helmet Certifications -->
 
-Out of the most common helmet certifications, the European ECE certification
-seems to be the closest match to EUC riding. DOT certification is widely
-considered to be unreliable, and Snell is known for requiring the highest levels
-of impact protection.
+<!-- Out of the most common helmet certifications, the European ECE certification -->
+<!-- seems to be the closest match to EUC riding. DOT certification is widely -->
+<!-- considered to be unreliable, and Snell is known for requiring the highest levels -->
+<!-- of impact protection. -->
 
-DOT
-: Terrible. Study show helmets often don't even meet DOT standards.
+<!-- DOT -->
+<!-- : Terrible. Study show helmets often don't even meet DOT standards. -->
 
-ECE
-: Reasonable.
+<!-- ECE -->
+<!-- : Reasonable. -->
 
-Snell
-: Big on impact protection. A Snell-certified helmet would be a good choice if
-  you want to prioritize impact protection over other considerations.
+<!-- Snell -->
+<!-- : Big on impact protection. A Snell-certified helmet would be a good choice if -->
+<!--   you want to prioritize impact protection over other considerations. -->
 
-SHARP
-: Useful.
+<!-- SHARP -->
+<!-- : Useful. -->
 
 # Eye protection
 
