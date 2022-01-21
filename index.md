@@ -13,8 +13,9 @@ Currently there's [an overview]({{ site.baseurl }}{% link _guides/overview.md
 %}), with comments on how to choose gear and what to protect against, and a
 [helmets page]({{ site.baseurl }}{% link _guides/helmets.md %}) is partly
 complete. [Wrist guards]({{ site.baseurl }}{% link _guides/hands.md %}) are
-strongly recommended. It's also a good idea to wear knee, elbow and other
-[impact protectors]({{ site.baseurl }}{% link _guides/impact.md %}).
+strongly recommended. It's a good idea to wear knee, elbow and other [impact
+protectors]({{ site.baseurl }}{% link _guides/impact.md %}), and it's also a
+good idea to protect your [feet]({{ site.baseurl }}{% link _guides/feet.md %}).
 
-Pages on abrasion resistance (protection from road rash) and foot gear are
-planned but not ready yet.
+A page on abrasion resistance (protection from road rash) is planned but not
+ready yet.
