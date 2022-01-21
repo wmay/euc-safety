@@ -10,13 +10,20 @@ the pedal is attached directly to the wheel it can hit with an impressive amount
 of force.
 
 For smaller wheels a lot of the damage -- mostly minor scrapes -- can be avoided
-just by wearing high-top shoes with padded collars. That could mean, for
-example, Vans Sk8-Hi shoes, or hiking shoes or boots.
+by wearing high-top shoes with padded collars. That could mean, for example,
+Vans Sk8-Hi shoes, or hiking shoes or boots.
 
 Heavier wheels may call for additional protection. Motorcycle shoes are one
-option, since they often come with ankle impact protectors. The TCX Street Ace
-shoes are an example. Most motorcycle shoes are also made with abrasion
-resistant materials, so that they aren't shredded by asphalt.
+option, since they often come with ankle impact protectors. This diagram from
+Shima shows the safety features of one of their shoes, which are typical for
+many motorcycle shoes:
+
+![Shima shoe diagram]({{site.baseurl}}/assets/images/shima_shoes.png)
+
+While the specific shoe in this diagram only has an ankle protector on the
+outside of the foot, many motorcycle shoes have protectors on both sides. Most
+motorcycle shoes are also made with abrasion resistant materials, so that they
+aren't shredded by asphalt.
 
 One shortcoming of motorcycle shoes is that they don't have as much impact
 protection on the back of your foot, at least not above the heel. Motorcycle
@@ -24,4 +31,4 @@ racing boots or motocross boots probably provide more protection, but they're
 expensive and kind of awkward. The Japanese motorcycle gear company Komine makes
 a more convenient alternative, the [SK-481 Ankle
 Protector](https://japan.webike.net/products/20127444.html). (Though at the
-moment I'm the only person I know of who's tried it.)
+moment I'm the only EUC rider I know of who's tried it.)
