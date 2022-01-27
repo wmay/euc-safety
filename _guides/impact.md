@@ -31,7 +31,8 @@ clothing]({{ site.baseurl }}{% link _guides/abrasion.md %}) with internal
 pads. Not only will this clothing protect you from road rash, it will also hold
 the pads in place during a slide.
 
-Airbag vests like the Alpinestars Tech-Air 5 provide much higher levels of
+Airbag vests like the [Alpinestars Tech-Air
+5](https://www.alpinestars.com/pages/tech-air-5) provide much higher levels of
 impact protection than any motorcycle pads. Though they're expensive, I think
 they're worth considering, especially for faster riders.
 
