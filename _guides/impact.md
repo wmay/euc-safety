@@ -170,6 +170,10 @@ although back protectors are popular in motorcycle gear, it's not obvious that
 back protection is needed for EUC riders. (An exception might be if you're
 riding backwards.)
 
+However, it may be useful to have a back protector regardless, since it can
+serve as an added layer of [abrasion resistance]({{ site.baseurl }}{% link
+_guides/abrasion.md %}).
+
 <!-- # Choosing upgrade armor -->
 
 <!-- premium pad table -->
