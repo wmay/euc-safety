@@ -59,6 +59,9 @@ off-road helmets.
 
 **Poorer peripheral vision?**
 
+Dual-sport motorcycle helmets are a hybrid of both styles and may work well for
+someone who wants to alternate between the two.
+
 # How much protection?
 
 The US Consumer Product Safety Commission (CPSC) suggests that bicycle helmets
