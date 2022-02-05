@@ -22,6 +22,7 @@ baseurl: "/euc-safety" # the subpath of your site, e.g. /blog
 url: "https://wmay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: williamcmay
 github_username: wmay
+google_analytics: G-MNQPL3K0L7
 
 # Build settings
 markdown: kramdown
