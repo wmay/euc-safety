@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Preventing Road Rash"
-popular: Lazyrolling armored reflective hoodie
-popular_url: https://lazyrolling.com/collections/2021-hoodies/products/reflective-performance-hoodie
+popular: Lazyrolling armored reflective jacket (e-RIDES version)
+popular_url: https://e-rides.com/brand/lazyrolling/
 ---
 
 * table of contents placeholder
