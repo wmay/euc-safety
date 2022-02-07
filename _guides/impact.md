@@ -15,16 +15,15 @@ pads for those. Ribs and shoulders are hit less often but those impacts can
 result in more severe injuries, so it's a good idea to protect them as well.
 
 There are a bunch of styles of pads available. Skateboard/rollerblade and
-motorcycle pads are the most widely used.
-
-Of the two styles, skateboard pads provide more protection for smaller impacts,
-while motorcycle pads provide more protection for harder impacts. Therefore
-heavier people should lean more toward motorcycle pads, while lighter people may
-find that skateboard pads work better for them.
+motorcycle pads are the most widely used. Of the two styles, skateboard pads
+provide more protection for smaller impacts, while motorcycle pads provide more
+protection for harder impacts. Therefore heavier people should lean more toward
+motorcycle pads, while lighter people may find that skateboard pads work better
+for them.
 
 Among motorcycle pads, off-road pads with hard shells and the on-road pads in
 motorcycle clothing are both mostly good choices, assuming the pads stay in
-place. Knees are an exception where hard shells may be more protective.
+place.
 
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
 clothing]({{ site.baseurl }}{% link _guides/abrasion.md %}) with internal
@@ -70,6 +69,9 @@ harder impacts. (As of October 2021, I only know of kneepads that meet the level
 | Elbow     | 6                  | 15                 | 4          |
 | Palm      | 5                  | 10                 | 3          |
 
+These tables show that, at least as far as European standards are concerned,
+roller sports pads are designed to absorb smaller impacts than motorcycle pads.
+
 # On-road vs off-road motorcycle protectors
 
 People sometimes claim that off-road motorcycle gear is better than on-road gear
@@ -113,28 +115,34 @@ shells can strategically distribute impacts across large surface areas and away
 from fragile body parts. Helmets and wrist guards use hard shells this way. Some
 kneepads, chest, and back protectors also do this.
 
-# Body parts
-
-## Elbows and Hips
-
-Skateboard and motorcycle pads are both good options for elbows and hips. Hip
-pads usually come in the form of impact shorts or as protectors contained in
-motorcycle pants.
+# Detailed notes
 
 ## Knees/shins
 
-Kneecaps are one of the more awkward places to hit. Hard shell pads can work
-well for knees by redirecting impacts away from kneecaps.
+Many riders choose motocross-style knee/shin guards (such as the Leatt Dual
+Axis). Aside from protecting your knees, they also protect your shins from
+painful knocks against the wheel. This style of knee guard might also be less
+likely to slide away during a crash at higher speeds than a smaller
+skateboard-style knee pad.
 
-Motocross-style knee/shin guards like the Leatt Dual Axis are widely used. Aside
-from protecting your knees, they also protect your shins from painful knocks
-against the wheel. This style of knee guard might also be less likely to slide
-away during a crash at higher speeds than a smaller skateboard-style knee pad.
+Hard shell pads can redirect impacts away from kneecaps, which is sometimes an
+awkward place to hit, so some people prefer them to viscoelastic knee pads.
 
 Motocross knee braces provide even more protection, at a much higher price. My
 understanding is that these are meant to prevent your knees from
 overextending. I haven't seen an instance of that on an EUC, so I don't think
 these are necessary unless you have pre-existing knee problems.
+
+## Elbows
+
+Skateboard and motorcycle elbow pads are both good options.
+
+## Hips
+
+Hip pads usually come in the form of impact shorts or as protectors contained in
+motorcycle pants. There are also a few external pads available ([Demon
+United](https://demon-united.com/products/hip-belt-x-d3o),
+[Komine](http://komineshop.shop21.makeshop.jp/shopdetail/000000000053)).
 
 ## Shoulders
 
