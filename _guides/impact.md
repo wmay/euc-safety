@@ -10,30 +10,28 @@ popular_url: https://leatt.com/us/shop/moto/protection/knee-guards/knee-&-shin-g
 
 # Overview
 
-Riders often hit knees, elbows, and hips in a fall, so it's a good idea to get
-pads for those. Ribs and shoulders are hit less often but those impacts can
+Riders often hit knees, elbows, and hips in a fall, so it's a good idea to
+protect these. Ribs and shoulders are hit less often but those impacts can
 result in more severe injuries, so it's a good idea to protect them as well.
 
-There are a bunch of styles of pads available. Skateboard/rollerblade and
-motorcycle pads are the most widely used. Of the two styles, skateboard pads
-provide more protection for smaller impacts, while motorcycle pads provide more
-protection for harder impacts. Therefore heavier people should lean more toward
-motorcycle pads, while lighter people may find that skateboard pads work better
-for them.
+Skateboard/rollerblade and motorcycle pads work best. Of the two, skateboard
+pads provide high levels of protection for smaller impacts, while motorcycle
+pads provide more minimal protection but for harder impacts. Therefore heavier
+people, who will hit the ground with more force, should lean toward motorcycle
+pads, while lighter people may find that skateboard pads work better for them.
 
 Among motorcycle pads, off-road pads with hard shells and the on-road pads in
-motorcycle clothing are both mostly good choices, assuming the pads stay in
+motorcycle clothing are both good choices, assuming the pads stay in
 place.
+
+Motorcycle pads are usually certified as CE level 1 or level 2. Level 1 pads
+provide minimal levels of protection. I recommend level 2 for upper body
+protectors.
 
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
 clothing]({{ site.baseurl }}{% link _guides/abrasion.md %}) with internal
 pads. Not only will this clothing protect you from road rash, it will also hold
 the pads in place during a slide.
-
-Airbag vests like the [Alpinestars Tech-Air
-5](https://www.alpinestars.com/pages/tech-air-5) provide much higher levels of
-impact protection than any motorcycle pads. Though they're expensive, I think
-they're worth considering, especially for faster riders.
 
 # Roller sports vs motorcycle standards
 
