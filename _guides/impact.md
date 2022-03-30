@@ -79,9 +79,15 @@ The 50 Joules impact in these requirements is a 5kg weight dropped 1 meter. In
 response to this realistic impact, the requirements allow motorcycle protectors
 to transmit large amounts of force. Even level 2 motorcycle pads can transmit
 more force than a kick from a professional fighter, though they should be less
-jarring than the level 1 pads. For those who aren't prepared to take this kind
-of beating, companies like Forcefield, SAS-TEC, and D3O make premium pads that
-far surpass the level 2 requirements.
+jarring than the level 1 pads.
+
+For those who aren't prepared to take this kind of beating, companies like
+Forcefield, SAS-TEC, and D3O make premium pads that far surpass the level 2
+requirements. You can also reduce the force by doubling the pads[^doubling].
+
+[^doubling]: See [Assessing the performance of motorcyclists’ impact protectors
+    in simulated ATD knee and shoulder
+    impacts](https://doi.org/10.1080/15389588.2018.1540867).
 
 For roller sports, level 2 pads transmit the same amount of force as level 1
 pads, but in response to harder impacts. (As of October 2021, I only know of
