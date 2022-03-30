@@ -171,7 +171,8 @@ United](https://demon-united.com/products/hip-belt-x-d3o),
 
 ## Shoulders
 
-Shoulders are a weak spot.
+Shoulders are a weak spot, so I recommend getting a high level of shoulder
+impact protection.
 
 For motorcycle purposes, shoulder protecters are classified as limb protectors
 and tested with a 5kg weight meant to be similar to the weight of an
@@ -179,27 +180,39 @@ arm. Unfortunately, if you fall onto your shoulder with the weight of your
 entire torso, that's not enough protection. Too many riders have crashed this
 way, leading to bad shoulder injuries.
 
-For that reason I recommend getting the highest level of shoulder impact
-protection that's compatible with your current gear, possibly even doubling up
-the pads. The only protector that can reliably protect shoulders in this type of
-crash is an airbag vest like the Alpinestars Tech Air. I think it's seriously
-worth considering.
+An [informal
+survey](https://forum.electricunicycle.org/topic/27058-euc-broken-shoulder-survey/)
+of broken shoulders on the EUC forums suggests that these injuries can happen
+even at lower speeds.
 
-It seems like it usually requires a certain amount of speed to fall this way,
-something like 20mph. But that's not totally clear.
+The only protector that can reliably protect shoulders in this type of crash is
+the Alpinestars Tech Air airbag vest. It's an expensive solution, but it could
+easily be worth the expense.
 
 ## Chest/ribs
 
-Rib injuries seem to happen when the wheel yanks sideways, causing the rider to
-fall on his or her side. Youtuber Hsiang did this when his wheel caught on a
-root, and Adam U did it when his wheel twisted due to a pedal clip.
+Rib injuries can happen when the wheel yanks sideways, causing the rider to fall
+on his or her side, or when the wheel loses traction in a turn.
 
-It's not clear exactly how much protection is required to prevent these rib
-injuries. I haven't heard of anyone breaking a rib while wearing motorcycle
-chest protectors, so maybe that's all that's needed. In any case a hard shell is
-a good idea for these pads because the shell spreads impacts across a wide
-surface area, and the motorcycle level 2 certification for chest protectors
-actually tests the rigidity of the pads for this reason.
+Motorcycle chest protectors provide some rib protection, though they cover more
+of the front and often leave the sides exposed. I haven't heard of anyone
+breaking a rib while wearing motorcycle chest protectors, so it's not clear how
+much of a problem that may be.
+
+A hard shell is a good idea for these pads because the shell spreads impacts
+across a wide surface area. The motorcycle level 2 certification for chest
+protectors tests the rigidity of the pads for this reason.
+
+There are alternatives to the traditional motorcycle chest protectors, though
+it's not obvious that they're needed:
+
+- Very strong rib protectors are made for karting (as in, go-kart racing). These
+  are almost the reverse of motorcycle protectors-- they provide excellent side
+  protection but usually leave the front more exposed.
+- Horse riding vests provide very high levels of impact protection over the
+  entire torso, with the downside of additional bulk. Tekrider makes a slightly
+  slimmed down version (the Tekvest) specifically for motorcyclists.
+- Airbag vests provide the ultimate torso protection, far beyond any pads.
 
 ## Back
 
