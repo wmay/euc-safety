@@ -47,9 +47,27 @@ Here's a video demonstrating some of the motorcycle protector testing:
 Both styles of protector can be certified as either level 1 or level 2 depending
 on how well they absorb impacts, with level 2 pads providing more
 protection. For motorcycle protectors, level 2 pads transmit less force in
-response to a test impact. In both tables below, the Joules (J) is the energy of
+response to a test impact. In the tables below, the Joules (J) is the energy of
 the test impact, and the kiloNewtons (kN) is the amount of force transmitted to
 a sensor under the pad.
+
+Before looking at the standards, though, I want to provide a sense of what a
+kiloNewton is and what different amounts of kiloNewtons might feel like. Here
+are a few examples along with their approximate kiloNewtons of force[^kilonewtons]:
+
+[^kilonewtons]: These examples are taken from [Brute Force: Humans Can Sure Take
+    a Punch](https://www.livescience.com/6040-brute-force-humans-punch.html) and
+    [What does 1 newton of force feel
+    like?](https://wikipedikia.org/what-does-1-newton-of-force-feel-like-12/).
+
+| Example                             | approximate kN |
+|-------------------------------------|----------------|
+| Hard push                           | 1              |
+| Punch in amateur boxing             | 2.5            |
+| Hard punch by a professional boxer  | 5              |
+| Hard kick by a professional fighter | 9              |
+
+And here are the CE requirements for motorcycle protectors:
 
 | Body Part               | Impact (J) | Level 1 Force (kN) | Level 2 Force (kN) |
 |-------------------------|------------|--------------------|--------------------|
@@ -57,9 +75,17 @@ a sensor under the pad.
 | Back                    | 50         | 18                 | 9                  |
 | Chest                   | 50         | 18                 | 15                 |
 
-For roller sports, level 2 pads transmit the same amount of force in response to
-harder impacts. (As of October 2021, I only know of kneepads that meet the level
-2 requirements.)
+The 50 Joules impact in these requirements is a 5kg weight dropped 1 meter. In
+response to this realistic impact, the requirements allow motorcycle protectors
+to transmit large amounts of force. Even level 2 motorcycle pads can transmit
+more force than a kick from a professional fighter, though they should be less
+jarring than the level 1 pads. For those who aren't prepared to take this kind
+of beating, companies like Forcefield, SAS-TEC, and D3O make premium pads that
+far surpass the level 2 requirements.
+
+For roller sports, level 2 pads transmit the same amount of force as level 1
+pads, but in response to harder impacts. (As of October 2021, I only know of
+kneepads that meet the level 2 requirements.)
 
 | Body Part | Level 1 Impact (J) | Level 2 Impact (J) | Force (kN) |
 |-----------|--------------------|--------------------|------------|
@@ -67,8 +93,9 @@ harder impacts. (As of October 2021, I only know of kneepads that meet the level
 | Elbow     | 6                  | 15                 | 4          |
 | Palm      | 5                  | 10                 | 3          |
 
-These tables show that, at least as far as European standards are concerned,
-roller sports pads are designed to absorb smaller impacts than motorcycle pads.
+These tables show that, as far as European standards are concerned, roller
+sports pads are designed to absorb smaller impacts than motorcycle pads. They
+also cushion the impacts much more than motorcycle pads.
 
 # On-road vs off-road motorcycle protectors
 
