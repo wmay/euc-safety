@@ -10,25 +10,60 @@ popular_url: https://e-rides.com/brand/lazyrolling/
 
 # Overview
 
-<!-- don't get road rash -->
+Asphalt is great for tires but it's not great for skin. The road rash that
+results from sliding across asphalt can range from minor scrapes to burns that
+require skin grafts. To prevent it, wear abrasion resistant materials over areas
+that are likely to slide on the road.
 
-| Protection type                   | Speed range (mph) | Standard              |
-| ---------------                   | ----------------- | --------              |
-| Skateboard/rollerblade pads       | <20               | EN 14120              |
-| Hard shell body armor             | <30?              | (none)                |
-| Urban-rated motorcycle clothing   | <40               | EN 17092 class A or B |
-| Touring-rated motorcycle clothing | <75               | EN 17092 class AA     |
+At slower speeds skateboard and skating pads provide pretty good protection. At
+higher speeds, as the risks of road rash increase, I recommend switching to
+either a hard shell armor jacket or a motorcycle street jacket.
 
-# Rollerblade pads
+Personally I prefer street jackets because they're specifically designed and
+certified for street use, though some of the better armor jackets probably
+provide comparable protection.
 
-Skateboard/rollerblade pads are meant to provide abrasion protection along with
-impact protection. The European roller sports standard, EN 14120, actually tests
-pads for abrasion resistance. Pads certified as CE level 1 must withstand a 16
-meter slide against an abrasive belt without wearing through, while CE level 2
-pads are subjected to a 64 meter slide.
+| Protection type                   | Speed range (mph) | Standard          |
+| ---------------                   | ----------------- | --------          |
+| Skateboard/roller skate pads      | <20               | EN 14120          |
+| Hard shell body armor             | <40?              | (none)            |
+| Urban-rated motorcycle clothing   | <40               | EN 17092 class A  |
+| Touring-rated motorcycle clothing | <75               | EN 17092 class AA |
 
-The biggest limitation of these pads is that they cover a limited surface
-area. Only a few common points of impact are protected.
+# Skateboard/roller skate pads
+
+The European roller sports standard, EN 14120, tests pads for both abrasion
+resistance and impact protection. Pads certified as CE level 1 must withstand a
+16 meter slide against an abrasive belt without wearing through, while CE level
+2 pads are subjected to a 64 meter slide.
+
+We can put this into perspective by comparing it to EN 13595, an old standard
+for motorcycle jackets with higher requirements than the current EN 17092
+standard. Both standards test abrasion using a Cambridge machine. Though the two
+tests run the abrasive belt at different speeds, Coulomb's Law of Friction tells
+us that the speed doesn't matter. That means we can directly compare the slide
+times from the two tests. (Coulomb's law is an approximation, so this should not
+be treated as an exact comparison.)
+
+| Standard | Level | Minimum slide time (seconds) |
+| -------- | ----- | ---------------------------- |
+| EN 13595 | 1     | 4                            |
+| EN 13595 | 2     | 7                            |
+| EN 14120 | 1     | 8-16                         |
+| EN 14120 | 2     | 32-64                        |
+
+The abrasion requirements for skateboard pads are actually higher than the
+highest requirements for motorcycle jackets.
+
+EN 14120 also tests pads to ensure they stay in place when impacted. Overall,
+these tests suggest that certified pads should hold up well in a slide. The main
+limitation of these pads is that they cover a small surface area. Only a few
+common points of impact are protected.
+
+EN 14120 isn't widely used outside of Europe. Non-European companies may not get
+their pads certified, or may not mention the certification if they do. Outside
+of Europe, non-certified pads from companies with good reputations are likely to
+meet EN 14120 standards despite not being certified.
 
 # Hard shell body armor
 
@@ -37,20 +72,32 @@ Protector](https://leatt.com/us/shop/moto/protection/body-armour/body-protector-
 and [Fox Racing Titan Sport
 Jacket](https://www.foxracing.com/product/titan-sport-jacket/24018.html?dwvar_24018_color=001&dwvar_24018_size=S&cgid=mens-moto-gear-guards). It
 seems safe to say that this armor provides more abrasion protection than
-skateboard pads, for the simple reasons that they have more pads and the pads
+skateboard pads, for the simple reason that they have more pads and the pads
 cover more surface area.
 
 However, these suits don't get tested for abrasion resistance. Since they're
 intended for offroad use, they're only tested for impact protection. That makes
 it difficult to say when exactly they can be suitable for the road. The amount
-of abrasion protection could also vary widely from one product to another.
+of abrasion protection may also vary widely from one product to another.
 
 The results of a bunch of crashes demonstrate that (at least some of) these body
 armor suits provide decent abrasion protection for EUC riding. Still, since they
-aren't meant for the road, I can't imagine recommending this type of armor for
-speeds over 30mph. If nothing else, the weak fabric holding the pads together
-can shred, potentially allowing the pads to fly off and leaving the rider
-defenseless against the pavement.
+aren't designed specifically for the road, I hesitate to recommend them. Some of
+these jackets may provide more protection than a good mesh motorcycle
+jacket. Others that are cheaply made may not protect the wearer at any speed.
+
+Some factors to consider when deciding if an armor jacket is suitable for the
+road:
+
+- How durable and abrasion resistant are the hard shells?
+- Will the restraints hold the pads in place in a crash followed by a slide?
+- How abrasion resistant is the lining on the parts of the jacket not covered by
+  a hard shell?
+  
+Because good quality hard shells can provide high levels of abrasion resistance,
+I think it's most sensible to treat quality body armor jackets like a good mesh
+street jacket. Usually these jackets are certified for urban riding,
+i.e. maximum speeds of around 40mph.
 
 # Motorcycle clothing
 
@@ -73,10 +120,8 @@ limits at that point).
 
 | Class | Zone 1 | Zone 2 | Zone 3 |
 | ----- | ------ | ------ | ------ |
-| A, B  | 45     | 25     | NA     |
+| A     | 45     | 25     | NA     |
 | AA    | 70     | 45     | 25     |
 | AAA   | 120    | 75     | 45     |
-
-<!-- EN 13595 is an older and higher standard. -->
 
 <!-- Also MotoCAP. -->
