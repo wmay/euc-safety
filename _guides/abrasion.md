@@ -45,12 +45,16 @@ us that the speed doesn't matter. That means we can directly compare the slide
 times from the two tests. (Coulomb's law is an approximation, so this should not
 be treated as an exact comparison.)
 
-| Standard | Level | Minimum slide time (seconds) |
-| -------- | ----- | ---------------------------- |
-| EN 13595 | 1     | 4                            |
-| EN 13595 | 2     | 7                            |
-| EN 14120 | 1     | 8-16                         |
-| EN 14120 | 2     | 32-64                        |
+| Standard | Level | Minimum slide time (seconds)[^slidetimes] |
+| -------- | ----- | ----------------------------------------- |
+| EN 13595 | 1     | 4                                         |
+| EN 13595 | 2     | 7                                         |
+| EN 14120 | 1     | 8                                         |
+| EN 14120 | 2     | 32                                        |
+
+[^slidetimes]: The times for EN 13595 are for zones 1 and 2, which require the
+    highest slide times. EN 14120 allows the belt to run between 1 and 2m/s. To
+    calculate the minimum time I assume the speed is 2m/s.
 
 The abrasion requirements for skateboard pads are actually higher than the
 highest requirements for motorcycle jackets.
