@@ -160,7 +160,7 @@ standards, along with bicycle and motorcycle standards for comparison:
 | [Snell L-98](https://smf.org/standards/l98/L98Std.pdf) (Moped) | 2.4 | 1.6 | 1.6 | 300 |
 | [DOT FMVSS 218](https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol6/pdf/CFR-2011-title49-vol6-sec571-218.pdf) (Motorcycle) | 1.8×2 | 1.4×2 | -- | 250[^dot] |
 | ECE 22.05 (Motorcycle) | 2.9 | -- | 2.9 | 275 |
-| [Snell M2015](https://smf.org/standards/m/2015/M2015FinalFinal.pdf) (Motorcycle) | 3.2×2 | 3.2×2 | -- | 275 |
+| [Snell M2015](https://smf.org/standards/m/2015/M2015FinalFinal.pdf) (Motorcycle) | 3.1+2.6 | 3.1+2.6 | -- | 275 |
 
 [^dot]: Technically DOT allows a maximum value of 400g, but in practice their
     more complicated standard is roughly equivalent to requiring a maximum of
