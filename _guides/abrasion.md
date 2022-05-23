@@ -37,28 +37,6 @@ resistance and impact protection. Pads certified as CE level 1 must withstand a
 16 meter slide against an abrasive belt without wearing through, while CE level
 2 pads are subjected to a 64 meter slide.
 
-We can put this into perspective by comparing it to EN 13595, an old standard
-for motorcycle jackets with higher requirements than the current EN 17092
-standard. Both standards test abrasion using a Cambridge machine. Though the two
-tests run the abrasive belt at different speeds, Coulomb's Law of Friction tells
-us that the speed doesn't matter. That means we can directly compare the slide
-times from the two tests. (Coulomb's law is an approximation, so this should not
-be treated as an exact comparison.)
-
-| Standard | Level | Minimum slide time (seconds)[^slidetimes] |
-| -------- | ----- | ----------------------------------------- |
-| EN 13595 | 1     | 4                                         |
-| EN 13595 | 2     | 7                                         |
-| EN 14120 | 1     | 8                                         |
-| EN 14120 | 2     | 32                                        |
-
-[^slidetimes]: The times for EN 13595 are for zones 1 and 2, which require the
-    highest slide times. EN 14120 allows the belt to run between 1 and 2m/s. To
-    calculate the minimum time I assume the speed is 2m/s.
-
-The abrasion requirements for skateboard pads are actually higher than the
-highest requirements for motorcycle jackets.
-
 EN 14120 also tests pads to ensure they stay in place when impacted. Overall,
 these tests suggest that certified pads should hold up well in a slide. The main
 limitation of these pads is that they cover a small surface area. Only a few
