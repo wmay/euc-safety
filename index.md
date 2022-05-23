@@ -15,7 +15,6 @@ Currently there's [an overview]({{ site.baseurl }}{% link _guides/overview.md
 site.baseurl }}{% link _guides/hands.md %}) are essential. It's a good idea to
 wear knee, elbow and other [impact protectors]({{ site.baseurl }}{% link
 _guides/impact.md %}), and it's also a good idea to protect your [feet]({{
-site.baseurl }}{% link _guides/feet.md %}).
-
-A page on [abrasion resistance]({{ site.baseurl }}{% link _guides/abrasion.md
-%}) (protection from road rash) is in progress.
+site.baseurl }}{% link _guides/feet.md %}). When riding on the street, you can
+protect against road rash with [abrasion resistant gear]({{ site.baseurl }}{%
+link _guides/abrasion.md %}).

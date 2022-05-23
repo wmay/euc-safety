@@ -86,24 +86,46 @@ i.e. maximum speeds of around 40mph.
 <!-- [Paul Varnsverry -->
 <!-- interview](https://www.mcgearhub.com/motorcycle-gear/interview-with-industry-expert-paul-varnsverry-part-2/) -->
 
-According to [the author at
+Most motorcycle clothing includes abrasion resistant materials. The current
+European standard for motorcycle clothing, EN 17092, tests abrasion resistance
+with a Darmstadt machine, which simulates sliding to a stop on pavement.
+
+EN 17092 specifies three levels of certification: class A (meant for urban
+riding), AA (meant for touring), and AAA (racing). According to [the author at
 mcgearhub.com](https://www.mcgearhub.com/motorcycle-pants/best-motorcycle-jeans-guide-updated-reviews/),
 class A garments can protect in crashes up to 40mph and class AA up to 75mph.
 
-These speeds are actually higher than the speeds used in testing. Another
-consideration, though, is that the pads beneath often provide more protection
-after the outer suit is torn (though you are really pushing the garment to its
-limits at that point).
+These speeds are actually higher than the speeds used in the Darmstadt
+testing. Another consideration, though, is that the pads beneath often provide
+more protection after the outer suit is torn (though you are really pushing the
+garment to its limits at that point).
+
+The certification splits garment areas into 3 zones depending on how much
+protection they require:
 
 <figure>
   <img src="{{site.baseurl}}/assets/images/dainese_en17092.jpg" alt="EN 17092 zones"/>
   <figcaption>EN 17092 zones (from <a href="https://demonerosso.dainese.com/how-do-motorcycle-jacket-and-pants-certifications-work">Dainese</a>)</figcaption>
 </figure>
 
+The table below shows the Darmstadt speeds (in kph, not mph) for the different
+zones. These numbers are only a rough guide to how the garment will perform in a
+real crash, since road conditions will usually differ from the Darmstadt test.
+
 | Class | Zone 1 | Zone 2 | Zone 3 |
 | ----- | ------ | ------ | ------ |
-| A     | 45     | 25     | NA     |
+| A     | 45     | 25     | --     |
 | AA    | 70     | 45     | 25     |
 | AAA   | 120    | 75     | 45     |
 
-<!-- Also MotoCAP. -->
+It's surprisingly complicated to predict the abrasion resistance of a garment
+from its construction. As a result, I find it easier to rely on testing and
+certification rather than worry about the specific materials of a garment. John
+Milbank from BikeSocial explores some of the complications in this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n22vtWc8QRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Another source of information is the Australian testing group
+[MotoCAP](https://www.motocap.com.au/). Their standards are high, and you should
+expect the kind of urban riding gear that's relevant to most EUC riding to
+achieve something like 2 out of 5 stars on their scale.
