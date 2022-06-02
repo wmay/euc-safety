@@ -28,12 +28,12 @@ Motorcycle pads are usually certified as CE level 1 or level 2. Level 1 pads
 provide minimal levels of protection. I recommend level 2 for upper body
 protectors.
 
-Beware of unknown sellers and brands selling cheap gear on sites like Amazon and
+Beware of unknown sellers offering cheap gear on sites like Amazon and
 AliExpress. These sellers often make false claims about CE certification and
-include fake impact protectors in their gear. Uncertified motorcycle gear can
-have dangerously low levels of protection. User ratings on these sites aren't
-useful because the people who buy these fake products are gullible dupes. Treat
-unknown sellers and brands with skepticism.
+include fake impact protectors in their gear, and user ratings on these sites
+aren't reliable because many buyers are too poorly informed to recognize the
+fakes. I recommend getting gear from reputable sellers like RevZilla and Cycle
+Gear.
 {: class="warning"}
 
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
