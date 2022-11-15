@@ -28,6 +28,8 @@
 }
 .warning::before {
     content: "Warning: ";
+    font-weight: bold;
+    color: #b80000;
 }
 
 .float-right {
