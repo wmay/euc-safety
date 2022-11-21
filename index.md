@@ -18,3 +18,7 @@ _guides/impact.md %}), and it's also a good idea to protect your [feet]({{
 site.baseurl }}{% link _guides/feet.md %}). When riding on the street, you can
 protect against road rash with [abrasion resistant gear]({{ site.baseurl }}{%
 link _guides/abrasion.md %}).
+
+Since the lithium-ion batteries in most wheels can be a fire hazard, there's
+also a [battery safety guide]({{ site.baseurl }}{% link _guides/batteries.md
+%}).
