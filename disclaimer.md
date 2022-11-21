@@ -3,7 +3,7 @@ title: Disclaimer
 ---
 
 The information provided by William May or any other contributors (“we,” “us” or
-“our”) on EUC Safety Guides (the “Site”) is for general informational purposes
+“our”) on {{ site.title }} (the “Site”) is for general informational purposes
 only. All information on the Site is provided in good faith, however we make no
 representation or warranty of any kind, express or implied, regarding the
 accuracy, adequacy, validity, reliability, availability or completeness of any
