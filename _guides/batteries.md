@@ -150,7 +150,7 @@ Technologies](https://hct-world.com/products/equipment/fire-extinguishers/).
 extinguisher that can stop thermal runaway. Rather than using a hand-held
 extinguisher, you set a bag of this on your unicycle so that it will be released
 if a fire starts. In an email, they recommended "2-3 cubic inches of CellBlockEX
-per 1 Wh," which translate to 2 or 3 of their 55 liter bags for a larger EUC.
+per 1 Wh," which translates to 2 or 3 of their 55 liter bags for a larger EUC.
 
 Class D fire extinguishers are not effective against PEV fires. These
 extinguishers are for *metallic* lithium, not the *ionic* lithium in PEV
