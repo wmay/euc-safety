@@ -24,7 +24,7 @@ to buy EUCs from reputable manufacturers and distributors who will do basic
 safety checks.
 
 You can further ensure your safety by following a few simple charging rules,
-having a fire detector nearby, monitoring your wheel's voltage levels, and
+having a smoke detector nearby, monitoring your wheel's voltage levels, and
 inspecting your batteries yearly. A fireproof container or fire extinguisher
 tested specifically for lithium-ion battery fires can also help.
 
@@ -108,8 +108,8 @@ carbon monoxide.
 
 Unlike many other fires, spraying water will not stop a lithium-ion battery
 fire. Instead, you need to *completely submerge* the batteries in water. When
-submerged, the water cools the batteries enough to end the thermal runaway. (And
-when removed from the water, the batteries can reignite again.)
+submerged, the water cools the batteries enough to end the thermal
+runaway. (When removed from the water, the batteries can reignite again.)
 
 ## Fireproof sacks/cases
 
@@ -139,12 +139,27 @@ of dollars).
 Traditional fire extinguishers aren't effective against lithium-ion battery
 fires, but there are alternatives.
 
-F-500 EA, AVD, and Imprex C are all extinguisher types that work specifically
-against lithium-ion battery fires. They're sold under different brand names in
-different countries. Of these, F-500 EA seems to require the least volume of
-extinguisher per watt hour, so I recommend it for larger battery packs. In the
-US, F-500 EA extinguishers can be bought directly from [Hazard Control
+[F-500
+EA](https://www.fireextinguisheronline.com.au/blog/post/lithium-ion-battery-fire-extinguishers-a-guide),
+[AVD](https://www.avdfire.com/what-is-aqueous-vermiculite-dispersion/), and
+Imprex C are all extinguisher types that work specifically against lithium-ion
+battery fires. They're sold under different brand names in different
+countries. Of these, F-500 EA requires the least volume of extinguisher per watt
+hour, so I recommend it for larger battery packs. In the US, F-500 EA
+extinguishers can be bought directly from [Hazard Control
 Technologies](https://hct-world.com/products/equipment/fire-extinguishers/).
+
+<!-- [Here](https://www.firebox.net.au/videos/9L%20Lithium-ion%20solution%20promotion%20video.mp4)'s -->
+<!-- a video of a 9 liter F-500 EA extinguisher tested on a 4.8kWh batter fire. -->
+
+<!-- | Extinguisher type | volume (liters) | battery capacity (kWh) | -->
+<!-- |:------------------|----------------:|-----------------------:| -->
+<!-- | AVD               |               6 |                    0.5 | -->
+<!-- | AVD               |               9 |                   0.75 | -->
+<!-- | Imprex C          |               6 |                  0.642 | -->
+<!-- | Imprex C          |               9 |                  1.285 | -->
+<!-- | F-500 EA          |               4 |                    2.4 | -->
+<!-- | F-500 EA          |               9 |                    4.8 | -->
 
 [CellBlockEX](https://cellblockfcs.com/cellblockex/) is a dry granulate
 extinguisher that can stop thermal runaway. Rather than using a hand-held
@@ -175,9 +190,11 @@ things, distributors generally handle replacements for defective parts, and some
 ship wheels with safer battery packs than you'd get directly from the
 manufacturer.
 
-For the batteries themselves, there's both UL 2271 and CE certification (which
-requires compliance with IEC 62133-2). UL 2271 is more comprehensive, and I
-don't know if any EUC batteries currently have it. Most if not all EUC batteries
-will have CE certification because it's required to sell the batteries in
-Europe. This is a meaningful certification that includes tests for crushing,
-mechanical shock, overcharging, short circuits, etc.
+For the batteries themselves, there's both UL 2271 and CE certification. Of the
+two, UL 2271 is more comprehensive, and I don't know if any EUC batteries
+currently have it. On the other hand, most if not all EUC batteries have CE
+certification because it's required to sell the batteries in Europe. CE
+certification requires compliance with [IEC
+62133-2](https://www.batterypoweronline.com/news/battery-safety-standards-update-iec-62133-undergoes-major-changes/),
+which includes tests for crushing, mechanical shock, overcharging, short
+circuits, and more.
