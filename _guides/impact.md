@@ -28,12 +28,15 @@ Motorcycle pads are usually certified as CE level 1 or level 2. Level 1 pads
 provide minimal levels of protection. I recommend level 2 for upper body
 protectors.
 
-Beware of unknown sellers offering cheap gear on sites like Amazon and
-AliExpress. These sellers often make false claims about CE certification and
-include fake impact protectors in their gear, and user ratings on these sites
-aren't reliable because many buyers are too poorly informed to recognize the
-fakes. I recommend getting gear from reputable sellers like RevZilla and Cycle
-Gear.
+Third-party sellers on sites like Amazon and AliExpress often lie about safety
+certifications and use fake impact protectors. The fakers include popular brands
+HWK and Viking Cycle. User ratings on these sites mislead due to fake reviews
+and poorly informed buyers. I recommend getting gear from reputable sellers like
+RevZilla and Cycle Gear. See more about fakes from Fake Britain (on [leather
+jackets](https://youtu.be/JgygN5sNUWs), [helmets](https://youtu.be/mdWvU9RF5ew),
+and [back protectors](https://youtu.be/lULbpkKnFNQ)),
+[BikeSocial](https://youtu.be/x5bMHOS25Mk), and
+[FortNine](https://youtu.be/O2pss4xWZ4w).
 {: class="warning"}
 
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
