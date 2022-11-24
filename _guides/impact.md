@@ -11,8 +11,8 @@ popular_url: https://leatt.com/us/shop/moto/protection/knee-guards/knee-&-shin-g
 # Overview
 
 Riders often hit knees, elbows, and hips in a fall, so it's a good idea to
-protect these. Ribs and shoulders are hit less often but those impacts can
-result in more severe injuries, so it's a good idea to protect them as well.
+protect these. Ribs and shoulders are hit less often, but it can be a good idea
+to protect them as well.
 
 Skateboard/rollerblade and motorcycle pads work best. Of the two, skateboard
 pads provide high levels of protection for smaller impacts, while motorcycle
