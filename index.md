@@ -5,20 +5,26 @@
 layout: home
 ---
 
-What kind of protective gear do you need to stay safe on an electric unicycle?
-This website is just a collection of my notes on these issues. I hope it's
-helpful.
+What protective gear do you need to stay safe on an electric unicycle? This
+website started as a collection of my notes on these issues, that I decided to
+organize and share.
 
-Currently there's [an overview]({{ site.baseurl }}{% link _guides/overview.md
-%}) with comments on how to choose gear and what to protect against. A
-[helmet]({{ site.baseurl }}{% link _guides/helmets.md %}) and [wrist guards]({{
-site.baseurl }}{% link _guides/hands.md %}) are essential. It's a good idea to
-wear knee, elbow and other [impact protectors]({{ site.baseurl }}{% link
-_guides/impact.md %}), and it's also a good idea to protect your [feet]({{
-site.baseurl }}{% link _guides/feet.md %}). When riding on the street, you can
-protect against road rash with [abrasion resistant gear]({{ site.baseurl }}{%
-link _guides/abrasion.md %}).
+[An overview]({{ site.baseurl }}{% link _guides/overview.md %}) describes my
+approach to safety gear and what to protect against.
 
-Since the lithium-ion batteries in most wheels can be a fire hazard, there's
-also a [battery safety guide]({{ site.baseurl }}{% link _guides/batteries.md
-%}).
+Then, the links here lead to a short guide for each type of gear:
+
+- **Essential:** a [helmet]({{ site.baseurl }}{% link _guides/helmets.md %}) and
+  [wrist guards]({{ site.baseurl }}{% link _guides/hands.md %}).
+- **Recommended:** knee, elbow and other [impact protectors]({{ site.baseurl }}{% link _guides/impact.md %}). And when not going slow,
+  [road rash protection]({{ site.baseurl }}{% link _guides/abrasion.md %}).
+- **Good to have:** [foot protection]({{ site.baseurl }}{% link _guides/feet.md %}).
+
+And one more-- a [battery safety guide]({{ site.baseurl }}{% link
+_guides/batteries.md %}), since the lithium-ion batteries in most wheels can be
+a fire hazard.
+
+While I've done an embarrassing amount of research to make this, I obviously
+can't guarantee anyone's safety, so this [legal disclaimer]({{ site.baseurl }}{%
+link disclaimer.md %}) explains that I'm not responsible if something goes
+wrong.
