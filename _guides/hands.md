@@ -60,36 +60,40 @@ to its designers. However I don't know of any systematic evidence demonstrating
 this. In theory wrist guards could be compared using their CE certification test
 results, but Demon seems to have lost the Flexmeter test results.
 
-# Glove/wrist guard options
+# Combined glove and wrist guard options
 
-Gloves with wrist guards aren't too common, but there are a few options. They're
-ordered here from most to least wrist protection.
+Gloves with wrist guards aren't too common, but there are a few. The most
+protective options are skate-style gloves or purpose-made gloves for EUC and
+Onewheel, though some motorcycle gloves also have decent wrist protection.
 
-Hillbilly wrist guard gloves, GyroRiderz gloves
+## Skate, e-skate, and EUC/Onewheel gloves
 
-: These gloves combine skateboard-style wrist guards with abrasion resistant
-  gloves. This is an ideal combination for a lot of EUC riding, so these gloves
-  are widely used.
+[Hillbilly](https://e-rides.com/product/hillbilly-full-finger-gloves/) and
+[GyroRiderz](https://www.gyroriderz.com/products/gants-gyroriderz-avec-proteges-poignets-integres-2-0?lang=en)
+gloves both combine full skateboard-style wrist guards with abrasion resistant
+gloves. This is an ideal combination for a lot of EUC riding, so these gloves
+are widely used. f(x)nction's [Sender wrist
+guards](https://shop.fxnctiongear.com/products/fxnction-shredder-wrist-guards-full-finger)
+are similar, but without the top splint.
 
-flatland3d e-skate gloves
+E-skate gloves require more flexibility (to hold an e-skate remote), but often
+still include wrist protection. flatland3d's [Pro e-skate
+gloves](https://flatland3d.com/shop/all-products/all-e-skate-accessories/fingerless-pro-e-skate-glove/)
+have both Knox palm sliders and a flexible top splint. The palm sliders allow
+hands to move more but don't protect as much as a skateboard-style wrist guard.
 
-: These are similar to the Hillbilly or GyroRiderz gloves, but they replace the
-  bottom wrist guard splint with Knox palm sliders. The palm sliders probably
-  don't protect as much as a skateboard-style wrist guard, but they allow you to
-  move your hand more (for example, to hold an e-skate remote).
+## Motorcycle gloves
 
-Motorcycle gloves
+Some motorcycle gloves have palm sliders meant to prevent wrist
+injuries. [Knox](https://www.planet-knox.com/) in particular is known for making
+good palm sliders. Motorcycle gloves don't include either a top or bottom splint
+because motorcyclists need to flex their wrists.
 
-: Some motorcycle gloves have palm sliders meant to prevent wrist injuries. Knox
-  in particular is known for making good palm sliders. Motorcycle gloves don't
-  include either a top or bottom splint because motorcyclists need to flex their
-  wrists.
-
-  Despite lower levels of wrist protection, a possible benefit of motorcycle
-  gloves is that you can get higher levels of abrasion resistance. EN 13594 is
-  the relevant CE standard. Gloves can be certified as level 1 or level 2. For
-  EUCs level 1 is probably adequate, though I haven't yet found all the details
-  of the standard.
+Despite lower levels of wrist protection, a possible benefit of motorcycle
+gloves is that you can get higher levels of abrasion resistance. EN 13594 is the
+relevant CE standard. Gloves can be certified as level 1 or level 2. For EUCs
+level 1 is probably adequate, though I haven't yet found all the details of the
+standard.
   
-  Many motorcycle gloves also offer knuckle or finger impact protection, but
-  this is a lower priority for EUC.
+Many motorcycle gloves also offer knuckle or finger impact protection, but this
+is a lower priority for EUC.
