@@ -35,8 +35,9 @@ and poorly informed buyers. I recommend getting gear from reputable sellers like
 RevZilla and Cycle Gear. See more about fakes from Fake Britain (on [leather
 jackets](https://youtu.be/JgygN5sNUWs), [helmets](https://youtu.be/mdWvU9RF5ew),
 and [back protectors](https://youtu.be/lULbpkKnFNQ)),
-[BikeSocial](https://youtu.be/x5bMHOS25Mk), and
-[FortNine](https://youtu.be/O2pss4xWZ4w).
+[BikeSocial](https://youtu.be/x5bMHOS25Mk),
+[FortNine](https://youtu.be/O2pss4xWZ4w), and [CBC
+Marketplace](https://youtu.be/hYuxp5bxEoM).
 {: class="warning"}
 
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
