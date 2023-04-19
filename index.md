@@ -20,6 +20,9 @@ Then, the links here lead to a short guide for each type of gear:
   [road rash protection]({{ site.baseurl }}{% link _guides/abrasion.md %}).
 - **Good to have:** [foot protection]({{ site.baseurl }}{% link _guides/feet.md %}).
 
+In some cases you can also avoid injuries by knowing [how to fall]({{
+site.baseurl }}{% link _guides/falling.md %}).
+
 And one more-- a [battery safety guide]({{ site.baseurl }}{% link
 _guides/batteries.md %}), since the lithium-ion batteries in most wheels can be
 a fire hazard.
