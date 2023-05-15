@@ -25,7 +25,7 @@ motorcycle clothing are both good choices, assuming the pads stay in
 place.
 
 Motorcycle pads are usually certified as CE level 1 or level 2. Level 1 pads
-provide minimal levels of protection. I recommend level 2 for upper body
+provide minimal levels of protection. I recommend level 2 for elbow and shoulder
 protectors.
 
 Third-party sellers on sites like Amazon and AliExpress often lie about safety
@@ -178,7 +178,13 @@ these are necessary unless you have pre-existing knee problems.
 
 ## Elbows
 
-Skateboard and motorcycle elbow pads are both good options.
+Skateboard and motorcycle elbow pads are both good options. After hearing about
+people breaking bones while wearing motorcycle CE level 1 elbow pads, I
+recommend looking for CE level 2. Most non-jacket motorcycle elbow pads are only
+CE level 1, but there are a couple of CE level 2 options.
+
+Some skate brands offer "pro" or "elite" versions of their pads that contain
+additional padding, so those are also good options.
 
 ## Hips
 
