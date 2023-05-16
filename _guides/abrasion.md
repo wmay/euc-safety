@@ -24,8 +24,8 @@ certified for street use, though some of the better armor jackets probably
 provide comparable protection.
 
 | Protection type                   | Speed range (mph) | Standard          |
-| ---------------                   | ----------------- | --------          |
-| Skateboard/roller skate pads      | <20               | EN 14120          |
+|-----------------------------------|-------------------|-------------------|
+| Skateboard/roller skate pads      | <20?              | EN 14120          |
 | Hard shell body armor             | <40?              | (none)            |
 | Urban-rated motorcycle clothing   | <40               | EN 17092 class A  |
 | Touring-rated motorcycle clothing | <75               | EN 17092 class AA |
@@ -43,9 +43,10 @@ limitation of these pads is that they cover a small surface area. Only a few
 common points of impact are protected.
 
 EN 14120 isn't widely used outside of Europe. Non-European companies may not get
-their pads certified, or may not mention the certification if they do. Outside
-of Europe, non-certified pads from companies with good reputations are likely to
-meet EN 14120 standards despite not being certified.
+their pads certified, or may not mention the certification if they do. The
+standards don't seem especially hard to meet, though, so my guess is that,
+outside of Europe, many non-certified pads from companies with good reputations
+will meet EN 14120 standards despite not being certified.
 
 # Hard shell body armor
 
@@ -91,9 +92,10 @@ European standard for motorcycle clothing, EN 17092, tests abrasion resistance
 with a Darmstadt machine, which simulates sliding to a stop on pavement.
 
 EN 17092 specifies three levels of certification: class A (meant for urban
-riding), AA (meant for touring), and AAA (racing). According to [the author at
-mcgearhub.com](https://www.mcgearhub.com/motorcycle-pants/best-motorcycle-jeans-guide-updated-reviews/),
-class A garments can protect in crashes up to 40mph and class AA up to 75mph.
+riding), AA (meant for touring), and AAA (racing). According to motorcycle gear
+expert Roy at
+[mcgearhub.com](https://www.mcgearhub.com/motorcycle-pants/best-motorcycle-jeans-guide-updated-reviews/),
+class A garments are suitable for speeds up to 40mph, and class AA up to 75mph.
 
 These speeds are actually higher than the speeds used in the Darmstadt
 testing. Another consideration, though, is that the pads beneath often provide
@@ -129,3 +131,8 @@ Another source of information is the Australian testing group
 [MotoCAP](https://www.motocap.com.au/). Their standards are high, and you should
 expect the kind of urban riding gear that's relevant to most EUC riding to
 achieve something like 2 out of 5 stars on their scale.
+
+The Institute for Frontier Materials published an in-depth review document, [A
+guide to designing and manufacturing motorcycle protective
+clothing](https://www.motocap.com.au/sites/default/files/2023-02/A%20guide%20to%20designing%20and%20manufacturing%20motorcycle%20protective%20clothing_0.pdf),
+for those who want to know more details.
