@@ -24,22 +24,24 @@ There are two main choices to make:
 The table below shows the style of helmet corresponding to each combination of
 answers:
 
-|              | Non-motorcycle        | Motorcycle         |
-|              | --------------        | ----------         |
-| **Street**   | Downhill longboarding | On-road motorcycle |
-| **Off-road** | Mountain bike         | Motocross          |
+|              | Non-motorcycle        | Motorcycle                             |
+|              | --------------        | ----------                             |
+| **Street**   | Downhill longboarding | Standard "full face" motorcycle helmet |
+| **Off-road** | Mountain bike         | Motocross                              |
 
 Street helmets are probably better for cooler weather and higher speeds. As for
 protection, these are the minimum recommended levels of impact protection based
 on riding speed:
 
-| Helmet type                   | Speed (mph) | Certifications         |
-| -----------                   | ----------- | --------------         |
-| Bicycle                       | <20         | CPSC, EN 1078          |
-| Downhill Mountain Bike Racing | 20-28       | ASTM F1952             |
-| Motorcycle                    | >28         | DOT, ECE, Snell, SHARP |
+| Helmet type                   | Speed (mph) | Certifications  |
+|-------------------------------|-------------|-----------------|
+| Bicycle                       | <20         | CPSC, EN 1078   |
+| Downhill Mountain Bike Racing | 20-28       | ASTM F1952      |
+| Motorcycle                    | >28         | DOT, ECE, Snell |
 
-The reasoning behind these recommendations is explained further down.
+The specific type of motorcycle helmet I recommend for most riders is a
+dual-sport helmet with ECE certification. The reasoning behind these
+recommendations is explained further down.
 
 # Why a full face helmet?
 
@@ -64,44 +66,44 @@ In many cases riders will instinctively put their hands out to prevent hitting
 their face, but that doesn't work every time and it's not worth gambling your
 face on.
 
-# On-road vs off-road
+# Street vs off-road
 
 The face shields on street helmets keep bugs/dirt/tree pollen/dust/rain out of
 your face better than glasses or goggles can. At higher speeds even rain becomes
 surprisingly painful, so this is a big plus.
 
 But the convenience comes with potential downsides, as the face shields also
-keep out wind and road noise. Generally, street helmets are hotter and quieter
-than off-road helmets, and people sometimes claim that street helmets have
-poorer peripheral vision.
+keep out wind and road noise. Generally, street helmets are less ventilated and
+quieter than off-road helmets, and off-road helmets can offer greater peripheral
+vision.
 
-**Hotter:** Due to the face shield blocking airflow, street helmets get hotter
-than off-road helmets. Off-road helmets are also explicitly designed to provide
-more airflow for riders that may be exerting themselves while riding slowly
-through tricky terrain.
+**Ventilation:** Due to the face shield blocking airflow, street helmets have
+less ventilation than off-road helmets. Off-road helmets are also explicitly
+designed to provide more airflow for riders that may be exerting themselves
+while riding slowly through tricky terrain.
   
-**Quieter:** Street helmets are typically designed to be quieter, which is good
-at high speeds and around cars, but may be a nuisance at lower speeds and around
+**Noise:** Street helmets are typically designed to be quieter, which is good at
+high speeds and around cars, but may be a nuisance at lower speeds and around
 relatively quiet bicycles and pedestrians.
 
-**Poorer peripheral vision?:** Off-road helmets are made to fit goggles, and as
-a result they have larger eye openings that allow the wearer to see more than in
-traditional street helmets (at least when not wearing goggles). However, bicycle
-and motorcycle helmet standards all require a 210° field of vision, so that,
-regardless of goggles, peripheral vision isn't significantly obstructed in
-certified helmets. I've found that, instead, the most significant difference is
-in *vertical*, not peripheral, vision. The eye openings in off-road helmets
-allow you to see farther down, which can be useful for seeing the road near
-ahead or displays on the wheel.
+**Peripheral vision:** Off-road helmets are made to fit goggles, and as a result
+they have larger eye openings that allow the wearer to see more than in
+traditional street helmets, at least when not wearing goggles. Off-road helmets
+also offer extra *vertical* (downward) vision, which can be useful for seeing
+the road near ahead or displays on the wheel. However, bicycle and motorcycle
+helmet standards all require a 210° horizontal field of view, so that,
+regardless of goggles, peripheral vision in certified helmets isn't obstructed
+enough to cause a safety issue. In my opinion, the extra view is a comfort
+feature rather than a safety issue.
 
-Dual-sport motorcycle helmets are a hybrid of both styles, with the larger eye
-openings to allow goggles as well as a face shield for the street. I think this
-is the most sensible style of motorcycle helmet for most riders.
+Dual-sport (aka adventure) helmets are a hybrid of both styles, with the larger
+eye openings to allow goggles as well as a face shield for the street. I think
+this is a sensible style of motorcycle helmet for most riders.
 
 # How much impact protection?
 
 The US Consumer Product Safety Commission (CPSC) suggests that bicycle helmets
-can be appropriate for motorized scooters moving slower than 20mph (see footnote
+can be appropriate for motorized scooters with speeds below 20mph (see footnote
 4 of [their helmet
 guide](https://www.cpsc.gov/safety-education/safety-guides/sports-fitness-and-recreation-bicycles/which-helmet-which-activity)). There
 are many full face bicycle helmets, like the Demon Podium and the O'Neal
@@ -110,10 +112,10 @@ V8, which has a top speed of 18mph, this kind of helmet is probably fine.
 
 For protection at higher speeds, many riders opt for helmets certified for
 downhill mountain bike racing (ASTM F1952). Examples are the Fox Proframe and
-the TSG Pass. These helmets are subject to higher impact requirements and are
-meant for the faster speeds of downhill racers. The downhill standard doesn't
-explicitly specify a range of speeds, though, which has created some
-confusion. For example, the
+the TSG Pass. These helmets are subject to higher impact requirements for the
+more dangerous conditions of downhill racing. Since the downhill standard wasn't
+intended for the street, it doesn't specify a range of speeds, which has created
+some confusion. For example, the
 [electric-scooter.guide](https://electric-scooter.guide/safety/ultimate-guide-electric-scooter-helmets/)
 website says these helmets are only intended for speeds <20mph, the same as
 regular bicycle helmets. Meanwhile Adam from [Wrong
@@ -121,7 +123,8 @@ Way](https://www.youtube.com/watch?v=ppD9gOEudcw&t=274s) suggests they're
 appropriate up to 50-60kph (31-37mph).[^wrongway]
 
 [^wrongway]: In the video he only discusses helmets with a regular bicycle
-    certification. I'm not sure why he ignores downhill-rated helmets.
+    certification. I'm not sure why he ignores the official downhill
+    certification.
 	
 To clear up the confusion, I compare the downhill standard with two other
 standards intermediate between bikes and motorcycles: Snell's L-98 standard for
@@ -135,8 +138,8 @@ comparison.
 Many helmet standards, including these, use a common impact testing scheme,
 which involves dropping a dummy head in a helmet onto an anvil and measuring the
 acceleration of the head during the impact. If the acceleration exceeds a
-threshold, usually around 300 G's, then the helmet fails the test. This video
-shows a helmet undergoing the certification tests:
+threshold, usually between 250 to 300 G's, then the helmet fails the test. This
+video shows a helmet undergoing the certification tests:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq0BrxVgjEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -151,21 +154,22 @@ highest, and maybe a little less than that.
 The table below shows the approximate drop heights (in meters) for each of these
 standards, along with bicycle and motorcycle standards for comparison:
 
-| Standard | Flat | Hemi | Curbstone | Max G |
-| -------- | ---- | ---- | --------- | ----- |
-| [EN 1078](http://js-cct.com/upfile/file/20170901/20170901103322_54247.pdf) (Bicycle) | 1.5 | -- | 1.1 | 250 |
-| [CPSC 1203](https://www.govinfo.gov/content/pkg/CFR-2012-title16-vol2/pdf/CFR-2012-title16-vol2-part1203.pdf) (Bicycle) | 2.0 | 1.2 | 1.2 | 300 |
-| ASTM F1952 (Downhill) | 2.0 | 1.6 | 1.6 | 300 |
-| NTA 8776 (E-bike) | 2.2 | ? | 1.6 | ? |
-| [Snell L-98](https://smf.org/standards/l98/L98Std.pdf) (Moped) | 2.4 | 1.6 | 1.6 | 300 |
-| [DOT FMVSS 218](https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol6/pdf/CFR-2011-title49-vol6-sec571-218.pdf) (Motorcycle) | 1.8×2 | 1.4×2 | -- | 250[^dot] |
-| ECE 22.05 (Motorcycle) | 2.9 | -- | 2.9 | 275 |
-| [Snell M2015](https://smf.org/standards/m/2015/M2015FinalFinal.pdf) (Motorcycle) | 3.1+2.6 | 3.1+2.6 | -- | 275 |
+| Standard                                                                                                                         | Flat    | Hemi    | Curbstone | Max G      |
+|----------------------------------------------------------------------------------------------------------------------------------|---------|---------|-----------|------------|
+| EN 1078 (Bicycle)                                                                                                                | 1.5     | --      | 1.1       | 250        |
+| [CPSC 1203](https://www.govinfo.gov/content/pkg/CFR-2012-title16-vol2/pdf/CFR-2012-title16-vol2-part1203.pdf) (Bicycle)          | 2.0     | 1.2     | 1.2       | 300        |
+| ASTM F1952 (Downhill)                                                                                                            | 2.0     | 1.6     | 1.6       | 300        |
+| NTA 8776 (E-bike)                                                                                                                | 2.2     | ?       | 1.6       | ?          |
+| [Snell L-98](https://smf.org/standards/l98/L98Std.pdf) (Moped)                                                                   | 2.4     | 1.6     | 1.6       | 300        |
+| ECE 22.05 (Motorcycle)                                                                                                           | 2.9     | --      | 2.9       | 275        |
+| [DOT FMVSS 218](https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol6/pdf/CFR-2011-title49-vol6-sec571-218.pdf) (Motorcycle) | 1.8×2   | 1.4×2   | --        | ~250[^dot] |
+| [Snell M2015](https://smf.org/standards/m/2015/M2015FinalFinal.pdf) (Motorcycle)                                                 | 3.1+2.6 | 3.1+2.6 | --        | 275        |
 
-[^dot]: Technically DOT allows a maximum value of 400g, but in practice their
+[^dot]: Officially DOT allows a maximum value of 400g, but in practice their
     more complicated standard is roughly equivalent to requiring a maximum of
-    250g, [according to
-    research](https://www.6dhelmets.com/wp-content/uploads/2016/06/Comparison-of-test-standards.pdf).
+    250g. See [Conflicts of Contemporary Motorcycle Helmet
+    Standards](https://smf.org/docs/articles/hic/Conflicts_of_helmet_stds_AAAM_1992.pdf),
+    p. 168.
 	
 Both the DOT and Snell standards require dropping the helmet twice on the same
 spot.
@@ -199,30 +203,81 @@ competing technologies, are successful.[^mips]
     ([link](https://dx.doi.org/10.1007%2Fs10439-021-02785-0))
 
 Most of this research is based on bicycle helmets, so it's not clear to what
-extent it applies to motorcycle helmets. (Since motorcycle helmets are larger
-and heavier, they may rotate less.) However, there are some motorcycle helmets
-with MIPS available. The new ECE 22.06 standard also includes a rotation test,
-which should address these concerns.
+extent it applies to motorcycle helmets. However, there are some motorcycle
+helmets with MIPS available. The new ECE 22.06 standard also includes a rotation
+test, which should address these concerns to some extent.
 
-<!-- # Motorcycle Helmet Certifications -->
+# Motorcycle helmet certifications
 
-<!-- Out of the most common helmet certifications, the European ECE certification -->
-<!-- seems to be the closest match to EUC riding. DOT certification is widely -->
-<!-- considered to be unreliable, and Snell is known for requiring the highest levels -->
-<!-- of impact protection. -->
+The 3 most common motorcycle helmet certifications in the US are DOT, Snell, and
+ECE. Oddly enough, Snell and ECE certifications are incompatible with each
+other. Experts disagree about which is safest, though it looks to me like most
+support ECE over Snell. (Snell introduced a new M2020R standard for Europe that
+is compatible with ECE certification. I'm only discussing the original Snell
+standard here, which has become M2020D.)
 
-<!-- DOT -->
-<!-- : Terrible. Study show helmets often don't even meet DOT standards. -->
+DOT certification does not require independent testing. As a result, I would
+only trust DOT certification from established and respected brands.
+{: class="warning"}
 
-<!-- ECE -->
-<!-- : Reasonable. -->
+The main disagreement is about how hard the helmet's impact foam should
+be. Harder foam can absorb a harder impact, but provides less cushioning. Snell
+takes the position that the foam should be hardened in order to absorb the
+hardest impacts. The experts behind the ECE standard argue that harder foam
+doesn't provide enough cushioning and causes too many injuries in smaller
+impacts, so ECE requires softer foam.
 
-<!-- Snell -->
-<!-- : Big on impact protection. A Snell-certified helmet would be a good choice if -->
-<!--   you want to prioritize impact protection over other considerations. -->
+This disagreement is reflected in each standard's test requirements. The table
+below shows that ECE has the lowest impact requirements, while Snell has the
+highest (the impact energy of two drops add together, so that, for example,
+DOT's two drops are roughly like a single 3.6 meter drop). In contrast, ECE
+seems to have the strictest head acceleration limits, while Snell is the most
+permissive. DOT seems to be in between.
 
-<!-- SHARP -->
-<!-- : Useful. -->
+| Standard      | Drop height, flat anvil (m) | max G's (official) | max G's in practice | Head acceleration limiting factor |
+|---------------|-----------------------------|--------------------|---------------------|-----------------------------------|
+| ECE 22.05     | 2.9                         | 275                | ?                   | HIC                               |
+| DOT FMVSS 218 | 1.8×2                       | 400                | around 250[^dot]    | Dwell times                       |
+| Snell M2015   | 3.1+2.6                     | 275                | 275                 | maximum G                         |
+
+Two arguments lead me to prefer ECE. First, there's reason to believe that a 1.8
+meter test drop corresponds to the 90<sup>th</sup> percentile of motorcycle head
+impacts, and a 3 meter drop corresponds to the 99<sup>th</sup>
+percentile.[^percentiles] The 2.9 meter drop required for ECE certification is
+already close to the 99<sup>th</sup> percentile for motorcycles. Crash speed is
+correlated with injury severity,[^speed] and, based on that, I think slower EUC
+speeds imply that the 99<sup>th</sup> percentile of EUC head impacts is
+significantly lower than that for motorcycles.
+
+[^percentiles]: For the 90<sup>th</sup> percentile estimate, see the Hurt
+    report, p. 279. For the 99<sup>th</sup> percentile estimate, see [Comparison
+    Tests of Motorcycle Helmets Qualified to International
+    Standards](https://msf-usa.org/wp-content/uploads/2021/07/PG1-pdf.pdf), p. 6
+
+[^speed]: See the Hurt report, p. 213-215
+
+Second, I'm not aware of any case of an EUC rider suffering a brain injury due
+to inadequate motorcycle helmet foam, at least as of May 2023. This suggests to
+me that the extra hardness required by Snell isn't needed for EUCs. In fact, I'm
+not aware of any rider even completely compressing the foam of a *bicycle*
+helmet. In the US, bicycle helmets are only tested with a 2 meter drop (for CPSC
+certification). So my guess is that the ECE impact requirement is adequate.
+
+It's not clear that these issues matter much. The difference is most pronounced
+for the rarer hard impacts that are near the limits of what the helmet foam can
+absorb, and is probably minor for the smaller head impacts that are much more
+common.
+
+A few more notes:
+
+The NHTSA independently tests a small subset of DOT-certified helmets every
+year. You can search the NHTSA's helmet test results on their clunky website
+[here](https://one.nhtsa.gov/cars/problems/comply/Index.cfm). Unfortunately chin
+bars and face shields are not tested for DOT certification.
+
+SHARP and CRASH are two more helmet testing organizations. Both use a 5-star
+rating system to evaluate helmets, which can be useful for getting additional
+info.
 
 # Eye protection
 
@@ -247,7 +302,7 @@ protection.
     Helmets](https://www.msf-usa.org/downloads/helmet_csi.pdf)
 - [US National Highway Traffic Safety Administration: Motorcycle
   Helmets](https://www.nhtsa.gov/people/injury/pedbimot/NoMigrate/Mcfol2.pdf)
-- [Ultimate Guide: Electric Scooter Helmets
-  (electric-scooter.guide)](https://electric-scooter.guide/safety/ultimate-guide-electric-scooter-helmets/)
 - [SHARP](https://sharp.dft.gov.uk/)
 - [lidpicker](https://www.lidpicker.com/)
+<!-- - [Motorcycle Helmet Performance: Blowing the Lid Off](https://motorcycleinfo.calsci.com/MotorcyclistHelmets.html) -->
+<!-- - [Reply To Snell](https://www.sportbikes.net/threads/reply-to-snell.283684/) -->
