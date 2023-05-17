@@ -12,8 +12,8 @@ popular_url: https://e-rides.com/product/hillbilly-full-finger-gloves/
 
 Broken wrists often result when riders fall forward and catch themselves with
 their hands-- a common injury for riders without safety gear. Experienced riders
-often consider wrist guards to be a requirement for riding. Skateboard-style
-wrist guards provide good protection against these injuries.
+often consider wrist guards to be a requirement for riding. Skate-style wrist
+guards provide good protection against these injuries.
 
 After wrist injuries, the most common hand injury is scratching up fingers due
 to abrasion with asphalt. This becomes more important at higher speeds. To
@@ -46,9 +46,9 @@ a typical EUC forward fall):
 1. *Top splint*. The top splint keeps your wrist from hyperextending (this one
    is more important for backward falls)
 
-Generally, skateboard/rollerblade-style wrist guards tend to work the best for
-EUCs. Other types of wrist guards, for snowboarding for example, may not include
-sliders or bottom splints.
+Generally, skate-style wrist guards tend to work the best for EUCs. Other types
+of wrist guards, for snowboarding for example, may not include sliders or bottom
+splints.
 
 In Europe wrist guards are CE certified under the EN 14120 roller sports
 standard. The standard includes 2 levels-- level 1 for "normal roller sports"
@@ -70,7 +70,7 @@ Onewheel, though some motorcycle gloves also have decent wrist protection.
 
 [Hillbilly](https://e-rides.com/product/hillbilly-full-finger-gloves/) and
 [GyroRiderz](https://www.gyroriderz.com/products/gants-gyroriderz-avec-proteges-poignets-integres-2-0?lang=en)
-gloves both combine full skateboard-style wrist guards with abrasion resistant
+gloves both combine full skate-style wrist guards with abrasion resistant
 gloves. This is an ideal combination for a lot of EUC riding, so these gloves
 are widely used. f(x)nction's [Sender wrist
 guards](https://shop.fxnctiongear.com/products/fxnction-shredder-wrist-guards-full-finger)
@@ -80,7 +80,7 @@ E-skate gloves require more flexibility (to hold an e-skate remote), but often
 still include wrist protection. flatland3d's [Pro e-skate
 gloves](https://flatland3d.com/shop/all-products/all-e-skate-accessories/fingerless-pro-e-skate-glove/)
 have both Knox palm sliders and a flexible top splint. The palm sliders allow
-hands to move more but don't protect as much as a skateboard-style wrist guard.
+hands to move more but don't protect as much as a skate-style wrist guard.
 
 ## Motorcycle gloves
 

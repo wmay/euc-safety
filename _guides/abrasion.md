@@ -15,9 +15,9 @@ results from sliding across asphalt can range from minor scrapes to burns that
 require skin grafts. To prevent it, wear abrasion resistant materials over areas
 that are likely to slide on the road.
 
-At slower speeds skateboard and skating pads provide pretty good protection. At
-higher speeds, as the risks of road rash increase, I recommend switching to
-either a hard shell armor jacket or a motorcycle street jacket.
+At slower speeds, skate pads provide pretty good protection. At higher speeds,
+as the risks of road rash increase, I recommend switching to either a hard shell
+armor jacket or a motorcycle street jacket.
 
 Personally I prefer street jackets because they're specifically designed and
 certified for street use, though some of the better armor jackets probably
@@ -25,12 +25,12 @@ provide comparable protection.
 
 | Protection type                   | Speed range (mph) | Standard          |
 |-----------------------------------|-------------------|-------------------|
-| Skateboard/roller skate pads      | <20?              | EN 14120          |
+| Skate pads                        | <20?              | EN 14120          |
 | Hard shell body armor             | <40?              | (none)            |
 | Urban-rated motorcycle clothing   | <40               | EN 17092 class A  |
 | Touring-rated motorcycle clothing | <75               | EN 17092 class AA |
 
-# Skateboard/roller skate pads
+# Skate pads
 
 The European roller sports standard, EN 14120, tests pads for both abrasion
 resistance and impact protection. Pads certified as CE level 1 must withstand a

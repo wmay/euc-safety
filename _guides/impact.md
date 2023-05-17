@@ -14,15 +14,14 @@ Riders often hit knees, elbows, and hips in a fall, so it's a good idea to
 protect these. Ribs and shoulders are hit less often, but it can be a good idea
 to protect them as well.
 
-Skateboard/rollerblade and motorcycle pads work best. Of the two, skateboard
-pads provide high levels of protection for smaller impacts, while motorcycle
-pads provide more minimal protection but for harder impacts. Therefore heavier
-people, who will hit the ground with more force, should lean toward motorcycle
-pads, while lighter people may find that skateboard pads work better for them.
+Skate and motorcycle pads work best. Of the two, skate pads provide high levels
+of protection for smaller impacts, while motorcycle pads provide more minimal
+protection but for harder impacts. Therefore heavier people, who will hit the
+ground with more force, should lean toward motorcycle pads, while lighter people
+may find that skate pads work better for them.
 
-Among motorcycle pads, off-road pads with hard shells and the on-road pads in
-motorcycle clothing are both good choices, assuming the pads stay in
-place.
+Among motorcycle pads, off-road pads with hard shells and the street pads in
+motorcycle clothing are both good choices, assuming the pads stay in place.
 
 Motorcycle pads are usually certified as CE level 1 or level 2. Level 1 pads
 provide minimal levels of protection. I recommend level 2 for elbow and shoulder
@@ -48,9 +47,8 @@ the pads in place during a slide.
 # Roller sports vs motorcycle standards
 
 Motorcycle protectors are usually CE certified, even though the certification is
-only required in Europe. Skateboard and rollerblade pads can also be CE
-certified, under the EN 14120 "roller sport" standard, though it's less common
-outside of Europe.
+only required in Europe. Skate pads can also be CE certified, under the EN 14120
+"roller sport" standard, though it's less common outside of Europe.
 
 Here's a video demonstrating some of the motorcycle protector testing:
 
@@ -115,27 +113,27 @@ These tables show that, as far as European standards are concerned, roller
 sports pads are designed to absorb smaller impacts than motorcycle pads. They
 also cushion the impacts much more than motorcycle pads.
 
-# On-road vs off-road motorcycle protectors
+# Street vs off-road motorcycle protectors
 
-People sometimes claim that off-road motorcycle gear is better than on-road gear
+People sometimes claim that off-road motorcycle gear is better than street gear
 for impact protection, but that's not true in general. They're both subject to
 the same CE impact standards. Off-road gear often comes with CE level 1 impact
 protection, while it's easy to find motorcycle jackets and pants with higher, CE
-level 2 protection. Instead, on- and off-road pads are each better for certain
+level 2 protection. Instead, street and off-road pads are each better for certain
 types of impacts, and with lots of variation within each category.
 
-What distinguishes on- and off-road gear is that off-road gear sometimes covers
+What distinguishes street and off-road gear is that off-road gear sometimes covers
 a larger surface area, and often comes with a hard outer shell. The greater
 surface area is good for falling on uneven terrain, and the hard shells prevent
 penetration and protect the pads from branches etc.
 
-In contrast, on-road protectors are often made of viscoelastic materials that
+In contrast, street protectors are often made of viscoelastic materials that
 mold to your body and harden on impact. Ryan from FortNine demonstrates some
 viscoelastic pads in this video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hA3ww6Sr5-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Aside from comfort, the benefit of on-road protectors is that the motorcycle
+Aside from comfort, the benefit of street protectors is that the motorcycle
 clothing they come in is more likely to hold together in a high-speed crash. A
 pad doesn't do much good after it slides out of place.
 
@@ -147,7 +145,7 @@ of reasons:
 *Abrasion resistance and sliding.* Hard shells can protect against damage from a
 punishing brush against asphalt. Since the shells are relatively slippery, they
 also make it easier for the pad to stay in place in a fall. These are the
-primary reasons why skateboard pads have hard shells.
+primary reasons why skate pads have hard shells.
 
 *Penetration resistance.* Hard shells can also prevent sharp objects from
 penetrating through the pad, and distribute their impact across a larger surface
@@ -165,8 +163,8 @@ kneepads, chest, and back protectors also do this.
 Many riders choose motocross-style knee/shin guards (such as the Leatt Dual
 Axis). Aside from protecting your knees, they also protect your shins from
 painful knocks against the wheel. This style of knee guard might also be less
-likely to slide away during a crash at higher speeds than a smaller
-skateboard-style knee pad.
+likely to slide away during a crash at higher speeds than a smaller skate-style
+knee pad.
 
 Hard shell pads can redirect impacts away from kneecaps, which is sometimes an
 awkward place to hit, so some people prefer them to viscoelastic knee pads.
@@ -178,7 +176,7 @@ these are necessary unless you have pre-existing knee problems.
 
 ## Elbows
 
-Skateboard and motorcycle elbow pads are both good options. After hearing about
+Skate and motorcycle elbow pads are both good options. After hearing about
 people breaking bones while wearing motorcycle CE level 1 elbow pads, I
 recommend looking for CE level 2. Most non-jacket motorcycle elbow pads are only
 CE level 1, but there are a couple of CE level 2 options.

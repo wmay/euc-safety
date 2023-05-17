@@ -11,8 +11,8 @@ of types of riding.
 My approach to safety gear is to match the type of riding to the most similar
 activity, and adopt the gear and recommendations from that activity. For street
 riding I think the best matches are downhill longboarding and slower (often
-called "urban") motorcycle riding. At slow speeds skateboard and rollerblade
-gear can make more sense.
+called "urban") motorcycle riding. At slow speeds skate gear can make more
+sense.
 
 Many experienced riders have also provided advice that I try to incorporate,
 often a result of their bad experiences.
