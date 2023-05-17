@@ -30,10 +30,9 @@ unicycles, has similar safety features.
 Touring-style motorcycle boots (as opposed to shoes) will provide more shin and
 back-of-leg protection, while still being reasonably comfortable.
 
-One possible shortcoming of motorcycle shoes and touring boots is that they
-don't have much impact protection on the back of the foot, at least not above
-the heel. Motorcycle racing boots and motocross boots provide more protection,
-but they're expensive and more awkward when not on a motorcycle. The Japanese
-motorcycle gear company Komine makes a more convenient alternative, the [SK-481
-Ankle Protector](https://japan.webike.net/products/20127444.html). (Though as of
-April 2023 I'm the only EUC rider I know of who's tried it.)
+Even higher levels of protection can be found in motorcycle racing boots and
+motocross boots. However, they look relatively awkward for EUC use, and it's not
+clear that the extra protection is needed. Komine's [SK-481 Ankle
+Protector](https://japan.webike.net/products/20127444.html) is another option
+for lower leg armor. (As of May 2023 I'm the only EUC rider I know of who's
+tried it.)
