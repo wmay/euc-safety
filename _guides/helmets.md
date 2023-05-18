@@ -161,16 +161,23 @@ standards, along with bicycle and motorcycle standards for comparison:
 | ASTM F1952 (Downhill)                                                                                                            | 2.0     | 1.6     | 1.6       | 300        |
 | NTA 8776 (E-bike)                                                                                                                | 2.2     | ?       | 1.6       | ?          |
 | [Snell L-98](https://smf.org/standards/l98/L98Std.pdf) (Moped)                                                                   | 2.4     | 1.6     | 1.6       | 300        |
-| ECE 22.05 (Motorcycle)                                                                                                           | 2.9     | --      | 2.9       | 275        |
+| ECE 22.06 (Motorcycle)                                                                                                           | 3.4     | --      | 2.9       | <250[^ece] |
 | [DOT FMVSS 218](https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol6/pdf/CFR-2011-title49-vol6-sec571-218.pdf) (Motorcycle) | 1.8×2   | 1.4×2   | --        | ~250[^dot] |
-| [Snell M2015](https://smf.org/standards/m/2015/M2015FinalFinal.pdf) (Motorcycle)                                                 | 3.1+2.6 | 3.1+2.6 | --        | 275        |
+| [Snell M2020R](https://smf.org/standards/m/2020/M2020_Final.pdf) (Motorcycle)                                                    | 3.4     | 3+2     | --        | <250[^ece] |
+| [Snell M2020D](https://smf.org/standards/m/2020/M2020_Final.pdf) (Motorcycle)                                                    | 3.1+2.6 | 3.1+2.6 | --        | 275        |
 
-[^dot]: Officially DOT allows a maximum value of 400g, but in practice their
-    more complicated standard is roughly equivalent to requiring a maximum of
-    250g. See [Conflicts of Contemporary Motorcycle Helmet
+[^dot]: Officially DOT allows a maximum value of 400g, but in practice its dwell
+    time requirements imply a maximum of around 250g. See [Conflicts of
+    Contemporary Motorcycle Helmet
     Standards](https://smf.org/docs/articles/hic/Conflicts_of_helmet_stds_AAAM_1992.pdf),
     p. 168.
-	
+
+[^ece]: Officially ECE allows a maximum value of 275g, but in practice its HIC
+    requirements imply a lower value. While many helmets have dual DOT and Snell
+    certifications, practically none are able to meet both Snell M2015/M2020D
+    and ECE standards. This implies that the ECE head acceleration limits are
+    lower than DOT's. Snell M2020R adopts the same limits as ECE.
+
 Both the DOT and Snell standards require dropping the helmet twice on the same
 spot.
 
@@ -230,21 +237,21 @@ impacts, so ECE requires softer foam.
 This disagreement is reflected in each standard's test requirements. The table
 below shows that ECE has the lowest impact requirements, while Snell has the
 highest (the impact energy of two drops add together, so that, for example,
-DOT's two drops are roughly like a single 3.6 meter drop). In contrast, ECE
-seems to have the strictest head acceleration limits, while Snell is the most
-permissive. DOT seems to be in between.
+DOT's two drops are roughly like a single 3.6 meter drop). In contrast, ECE has
+the strictest head acceleration limits, while Snell is the most permissive. DOT
+is in between.
 
 | Standard      | Drop height, flat anvil (m) | max G's (official) | max G's in practice | Head acceleration limiting factor |
 |---------------|-----------------------------|--------------------|---------------------|-----------------------------------|
-| ECE 22.05     | 2.9                         | 275                | ?                   | HIC                               |
+| ECE 22.06     | 3.4                         | 275                | <250[^ece]          | HIC                               |
 | DOT FMVSS 218 | 1.8×2                       | 400                | around 250[^dot]    | Dwell times                       |
-| Snell M2015   | 3.1+2.6                     | 275                | 275                 | maximum G                         |
+| Snell M2020D  | 3.1+2.6                     | 275                | 275                 | maximum G                         |
 
 Two arguments lead me to prefer ECE. First, there's reason to believe that a 1.8
 meter test drop corresponds to the 90<sup>th</sup> percentile of motorcycle head
 impacts, and a 3 meter drop corresponds to the 99<sup>th</sup>
-percentile.[^percentiles] The 2.9 meter drop required for ECE certification is
-already close to the 99<sup>th</sup> percentile for motorcycles. Crash speed is
+percentile.[^percentiles] The 3.4 meter drop required for ECE certification is
+already beyond the 99<sup>th</sup> percentile for motorcycles. Crash speed is
 correlated with injury severity,[^speed] and, based on that, I think slower EUC
 speeds imply that the 99<sup>th</sup> percentile of EUC head impacts is
 significantly lower than that for motorcycles.
