@@ -39,6 +39,11 @@ on riding speed:
 | Downhill racing or e-bike | 20-28       | ASTM F1952, NTA 8776 |
 | Motorcycle                | >28         | DOT, ECE, Snell      |
 
+In terms of safety, the most important feature is helmet certification. The
+second most important feature is a technology like MIPS that reduces head
+rotation. (It can also help to get a brighter color for [traffic visibility]({{
+site.baseurl }}{% link _guides/traffic.md %}).)
+
 The specific type of motorcycle helmet I recommend for most riders is a
 dual-sport helmet with ECE certification. The reasoning behind these
 recommendations is explained further down.
