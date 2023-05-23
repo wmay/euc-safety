@@ -197,10 +197,15 @@ competing technologies, are successful.[^mips]
 
 [^mips]: See "Impact Performance Comparison of Advanced Bicycle Helmets with
     Dedicated Rotation-Damping Systems"
-    ([link](https://dx.doi.org/10.1007%2Fs10439-019-02328-8)), and "A New
-    Assessment of Bicycle Helmets: The Brain Injury Mitigation Effects of New
-    Technologies in Oblique Impacts"
-    ([link](https://dx.doi.org/10.1007%2Fs10439-021-02785-0))
+    ([link](https://dx.doi.org/10.1007%2Fs10439-019-02328-8)), "A New Assessment
+    of Bicycle Helmets: The Brain Injury Mitigation Effects of New Technologies
+    in Oblique Impacts"
+    ([link](https://dx.doi.org/10.1007%2Fs10439-021-02785-0)), "The Effect of
+    MIPS, Headform Condition, and Impact Orientation on Headform Kinematics
+    Across a Range of Impact Speeds During Oblique Bicycle Helmet Impacts"
+    ([link](https://doi.org/10.1007/s10439-022-02961-w)), and "Evaluation of two
+    rotational helmet technologies to decrease peak rotational acceleration in
+    cycling helmets" ([link](https://doi.org/10.1038/s41598-022-11559-0))
 
 Most of this research is based on bicycle helmets, so it's not clear to what
 extent it applies to motorcycle helmets. However, there are some motorcycle
@@ -306,15 +311,19 @@ protection.
 
 # Resources
 
-- [The Bicycle Helmet Safety Institute](https://www.helmets.org)
-- [The Dome / helmetfacts.com](https://www.helmetfacts.com)
+
+
 - [US CPSC: Which Helmet for Which
   Activity?](https://www.cpsc.gov/safety-education/safety-guides/sports-fitness-and-recreation-bicycles/which-helmet-which-activity)
 - [MSF: What You Should Know About Motorcycle
     Helmets](https://www.msf-usa.org/downloads/helmet_csi.pdf)
 - [US National Highway Traffic Safety Administration: Motorcycle
   Helmets](https://www.nhtsa.gov/people/injury/pedbimot/NoMigrate/Mcfol2.pdf)
-- [SHARP](https://sharp.dft.gov.uk/)
+- [The Dome / helmetfacts.com](https://www.helmetfacts.com)
 - [lidpicker](https://www.lidpicker.com/)
-<!-- - [Motorcycle Helmet Performance: Blowing the Lid Off](https://motorcycleinfo.calsci.com/MotorcyclistHelmets.html) -->
+- [SHARP](https://sharp.dft.gov.uk/)
+- [Motorcycle Helmet Performance: Blowing the Lid
+  Off](https://motorcycleinfo.calsci.com/MotorcyclistHelmets.html), an
+  influential article about the foam hardness debate
+- [The Bicycle Helmet Safety Institute](https://www.helmets.org)
 <!-- - [Reply To Snell](https://www.sportbikes.net/threads/reply-to-snell.283684/) -->
