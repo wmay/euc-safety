@@ -154,29 +154,17 @@ highest, and maybe a little less than that.
 The table below shows the approximate drop heights (in meters) for each of these
 standards, along with bicycle and motorcycle standards for comparison:
 
-| Standard                                                                                                                         | Flat    | Hemi    | Curbstone | Max G      |
-|----------------------------------------------------------------------------------------------------------------------------------|---------|---------|-----------|------------|
-| EN 1078 (Bicycle)                                                                                                                | 1.5     | --      | 1.1       | 250        |
-| [CPSC 1203](https://www.govinfo.gov/content/pkg/CFR-2012-title16-vol2/pdf/CFR-2012-title16-vol2-part1203.pdf) (Bicycle)          | 2.0     | 1.2     | 1.2       | 300        |
-| ASTM F1952 (Downhill)                                                                                                            | 2.0     | 1.6     | 1.6       | 300        |
-| NTA 8776 (E-bike)                                                                                                                | 2.2     | ?       | 1.6       | ?          |
-| [Snell L-98](https://smf.org/standards/l98/L98Std.pdf) (Moped)                                                                   | 2.4     | 1.6     | 1.6       | 300        |
-| ECE 22.06 (Motorcycle)                                                                                                           | 3.4     | --      | 2.9       | <250[^ece] |
-| [DOT FMVSS 218](https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol6/pdf/CFR-2011-title49-vol6-sec571-218.pdf) (Motorcycle) | 1.8×2   | 1.4×2   | --        | ~250[^dot] |
-| [Snell M2020R](https://smf.org/standards/m/2020/M2020_Final.pdf) (Motorcycle)                                                    | 3.4     | 3+2     | --        | <250[^ece] |
-| [Snell M2020D](https://smf.org/standards/m/2020/M2020_Final.pdf) (Motorcycle)                                                    | 3.1+2.6 | 3.1+2.6 | --        | 275        |
-
-[^dot]: Officially DOT allows a maximum value of 400g, but in practice its dwell
-    time requirements imply a maximum of around 250g. See [Conflicts of
-    Contemporary Motorcycle Helmet
-    Standards](https://smf.org/docs/articles/hic/Conflicts_of_helmet_stds_AAAM_1992.pdf),
-    p. 168.
-
-[^ece]: Officially ECE allows a maximum value of 275g, but in practice its HIC
-    requirements imply a lower value. While many helmets have dual DOT and Snell
-    certifications, practically none are able to meet both Snell M2015/M2020D
-    and ECE standards. This implies that the ECE head acceleration limits are
-    lower than DOT's. Snell M2020R adopts the same limits as ECE.
+| Standard                                                                                                                         | Flat    | Hemi    | Curbstone | Max G |
+|----------------------------------------------------------------------------------------------------------------------------------|---------|---------|-----------|-------|
+| EN 1078 (Bicycle)                                                                                                                | 1.5     | --      | 1.1       | 250   |
+| [CPSC 1203](https://www.govinfo.gov/content/pkg/CFR-2012-title16-vol2/pdf/CFR-2012-title16-vol2-part1203.pdf) (Bicycle)          | 2.0     | 1.2     | 1.2       | 300   |
+| ASTM F1952 (Downhill racing)                                                                                                     | 2.0     | 1.6     | 1.6       | 300   |
+| NTA 8776 (E-bike)                                                                                                                | 2.2     | ?       | 1.6       | ?     |
+| [Snell L-98](https://smf.org/standards/l98/L98Std.pdf) (Moped)                                                                   | 2.4     | 1.6     | 1.6       | 300   |
+| ECE 22.06 (Motorcycle)                                                                                                           | 3.4     | --      | 2.9       | 275   |
+| [DOT FMVSS 218](https://www.govinfo.gov/content/pkg/CFR-2011-title49-vol6/pdf/CFR-2011-title49-vol6-sec571-218.pdf) (Motorcycle) | 1.8×2   | 1.4×2   | --        | 400   |
+| [Snell M2020R](https://smf.org/standards/m/2020/M2020_Final.pdf) (Motorcycle)                                                    | 3.4     | 3+2     | --        | 275   |
+| [Snell M2020D](https://smf.org/standards/m/2020/M2020_Final.pdf) (Motorcycle)                                                    | 3.1+2.6 | 3.1+2.6 | --        | 275   |
 
 Both the DOT and Snell standards require dropping the helmet twice on the same
 spot.
@@ -243,9 +231,21 @@ is in between.
 
 | Standard      | Drop height, flat anvil (m) | max G's (official) | max G's in practice | Head acceleration limiting factor |
 |---------------|-----------------------------|--------------------|---------------------|-----------------------------------|
-| ECE 22.06     | 3.4                         | 275                | <250[^ece]          | HIC                               |
-| DOT FMVSS 218 | 1.8×2                       | 400                | around 250[^dot]    | Dwell times                       |
-| Snell M2020D  | 3.1+2.6                     | 275                | 275                 | maximum G                         |
+| ECE 22.06     | 3.4                         | 275                | <250[^maxg]         | HIC                               |
+| DOT FMVSS 218 | 1.8×2                       | 400                | around 250[^maxg]   | Dwell times                       |
+| Snell M2020D  | 3.1+2.6                     | 275                | 275                 | Peak acceleration                 |
+
+[^maxg]: Officially DOT allows a maximum value of 400g, but in practice its
+    dwell time requirements imply a maximum of around 250g. See [Conflicts of
+    Contemporary Motorcycle Helmet
+    Standards](https://smf.org/docs/articles/hic/Conflicts_of_helmet_stds_AAAM_1992.pdf),
+    p. 168. ECE adds HIC (head injury criterion) requirements that also imply a
+    lower G value. While I couldn't find a rigorous estimate, we can infer
+    something from Snell compatibility: many helmets have dual Snell and DOT
+    certifications, but practically none are able to meet both Snell
+    M2015/M2020D and ECE standards. This implies that ECE's head acceleration
+    limits are lower than DOT's. (Snell M2020R adopts the same HIC limits as
+    ECE.)
 
 Two arguments lead me to prefer ECE. First, there's reason to believe that a 1.8
 meter test drop corresponds to the 90<sup>th</sup> percentile of motorcycle head
