@@ -33,11 +33,11 @@ Street helmets are probably better for cooler weather and higher speeds. As for
 protection, these are the minimum recommended levels of impact protection based
 on riding speed:
 
-| Helmet type                   | Speed (mph) | Certifications  |
-|-------------------------------|-------------|-----------------|
-| Bicycle                       | <20         | CPSC, EN 1078   |
-| Downhill Mountain Bike Racing | 20-28       | ASTM F1952      |
-| Motorcycle                    | >28         | DOT, ECE, Snell |
+| Helmet type               | Speed (mph) | Certifications       |
+|---------------------------|-------------|----------------------|
+| Bicycle                   | <20         | CPSC, EN 1078        |
+| Downhill racing or e-bike | 20-28       | ASTM F1952, NTA 8776 |
+| Motorcycle                | >28         | DOT, ECE, Snell      |
 
 The specific type of motorcycle helmet I recommend for most riders is a
 dual-sport helmet with ECE certification. The reasoning behind these
@@ -131,9 +131,9 @@ standards intermediate between bikes and motorcycles: Snell's L-98 standard for
 moped helmets and the Dutch NTA standard for e-bike helmets. The Snell L-98
 standard is meant for vehicles traveling below highway speeds, while the NTA
 e-bike standard is meant for e-bikes traveling up to 28mph (the legal top speed
-for e-bikes in the Netherlands). Unfortunately, as of August 2021, there are no
-full face helmets with these certifications, but at least we can use them for
-comparison.
+for e-bikes in the Netherlands). Unfortunately, as of May 2023, no helmets have
+the moped certification, but at least we can use it for comparison. The Beam
+Virgo is the only full face helmet I know of with the e-bike certification.
 
 Many helmet standards, including these, use a common impact testing scheme,
 which involves dropping a dummy head in a helmet onto an anvil and measuring the
