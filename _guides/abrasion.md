@@ -132,6 +132,14 @@ Another source of information is the Australian testing group
 expect the kind of urban riding gear that's relevant to most EUC riding to
 achieve something like 2 out of 5 stars on their scale.
 
+Many sellers of cheap gear on sites like Amazon and AliExpress lie about the
+material of their motorcycle garments, claiming to use expensive abrasion
+resistant materials. On these sites, I suspect that many "Cordura" jackets are
+actually polyester, and many "leather" jackets are synthetic leather, aka
+pleather. It's not clear that they provide more protection than a regular
+jacket.
+{: class="warning"}
+
 The Institute for Frontier Materials published an in-depth review document, [A
 guide to designing and manufacturing motorcycle protective
 clothing](https://www.motocap.com.au/sites/default/files/2023-02/A%20guide%20to%20designing%20and%20manufacturing%20motorcycle%20protective%20clothing_0.pdf),

@@ -27,24 +27,12 @@ Motorcycle pads are usually certified as CE level 1 or level 2. Level 1 pads
 provide minimal levels of protection. I recommend level 2 for elbow and shoulder
 protectors.
 
-Third-party sellers on sites like Amazon and AliExpress often lie about safety
-certifications and use fake impact protectors. The fakers include popular brands
-HWK and Viking Cycle. User ratings on these sites mislead due to fake reviews
-and poorly informed buyers. I recommend getting gear from reputable sellers like
-RevZilla and Cycle Gear. See more about fakes from Fake Britain (on [leather
-jackets](https://youtu.be/JgygN5sNUWs), [helmets](https://youtu.be/mdWvU9RF5ew),
-and [back protectors](https://youtu.be/lULbpkKnFNQ)),
-[BikeSocial](https://youtu.be/x5bMHOS25Mk),
-[FortNine](https://youtu.be/O2pss4xWZ4w), and [CBC
-Marketplace](https://youtu.be/hYuxp5bxEoM).
-{: class="warning"}
-
 At higher speeds it's a good idea to switch to [abrasion resistant motorcycle
 clothing]({{ site.baseurl }}{% link _guides/abrasion.md %}) with internal
 pads. Not only will this clothing protect you from road rash, it will also hold
 the pads in place during a slide.
 
-# Roller sports vs motorcycle standards
+# Skate vs motorcycle standards
 
 Motorcycle protectors are usually CE certified, even though the certification is
 only required in Europe. Skate pads can also be CE certified, under the EN 14120
@@ -132,6 +120,13 @@ mold to your body and harden on impact. Ryan from FortNine demonstrates some
 viscoelastic pads in this video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hA3ww6Sr5-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Street pads made of plastic or EVA foam (the type of foam used in skate pads)
+that claim to be CE certified are probably fake. In order to meet motorcycle CE
+requirements, EVA foam would have to be too thick to fit in a jacket, and
+plastic by itself provides no real impact protection. These fakes are common in
+cheap gear, including popular brands HWK and Viking Cycle.
+{: class="warning"}
 
 Aside from comfort, the benefit of street protectors is that the motorcycle
 clothing they come in is more likely to hold together in a high-speed crash. A

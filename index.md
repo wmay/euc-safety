@@ -31,3 +31,16 @@ While I've done an embarrassing amount of research to make this, I obviously
 can't guarantee anyone's safety, so this [legal disclaimer]({{ site.baseurl }}{%
 link disclaimer.md %}) explains that I'm not responsible if something goes
 wrong.
+
+Third-party sellers on sites like Amazon and AliExpress often lie about their
+safety gear. User ratings on these sites mislead due to fake reviews and poorly
+informed buyers. I recommend getting gear from trusted brands and reputable
+sellers like RevZilla and Cycle Gear. See more about fakes from Fake Britain (on
+[bike helmets](https://youtu.be/alQY9MJr3o8), [motorcycle
+helmets](https://youtu.be/mdWvU9RF5ew), [leather
+jackets](https://youtu.be/JgygN5sNUWs), and [back
+protectors](https://youtu.be/lULbpkKnFNQ)),
+[BikeSocial](https://youtu.be/x5bMHOS25Mk),
+[FortNine](https://youtu.be/O2pss4xWZ4w), and [CBC
+Marketplace](https://youtu.be/hYuxp5bxEoM).
+{: class="warning"}
