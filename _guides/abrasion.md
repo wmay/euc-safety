@@ -120,6 +120,10 @@ real crash, since road conditions will usually differ from the Darmstadt test.
 | AA    | 70     | 45     | 25     |
 | AAA   | 120    | 75     | 45     |
 
+Many motorcycle jackets come with loops or a zipper to attach to pants. This
+connection helps prevent the jacket from sliding up in a crash.
+{: class="pro-tip"}
+
 It's surprisingly complicated to predict the abrasion resistance of a garment
 from its construction. As a result, I find it easier to rely on testing and
 certification rather than worry about the specific materials of a garment. John
