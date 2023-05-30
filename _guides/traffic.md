@@ -8,9 +8,9 @@ title: "Traffic"
 
 # Overview
 
-Car drivers make mistakes all the time. Some are young and inexperienced, some
-are distracted, and some are literally on drugs. And getting hit by a car is one
-of the worst things that can happen on a unicycle. Drivers' mistakes are pretty
+Car drivers make mistakes all the time. Some are inexperienced, some are
+distracted, and some are literally on drugs. And getting hit by a car is one of
+the worst things that can happen on a unicycle. Drivers' mistakes are
 predictable, though, and motorcyclists and cyclists have developed all sorts of
 strategies to deal with them.
 
@@ -35,9 +35,13 @@ is most sensitive to yellow-green (<span style="color:#B3FF00">██</span>, ak
 chartreuse), so this color is often used for high visibility gear. In motorcycle
 gear, it's often just called "hi-viz". During low-light conditions, a slightly
 blue-ish green color (<span style="color:#00FF38">██</span>) is the most
-visible.[^chartreuse] Fluorescent materials can be even brighter still by
-absorbing non-visible light and emitting it as visible light, though they
-generally require daylight to work.
+visible.[^chartreuse] <!-- Fluorescent materials can be even brighter by absorbing -->
+<!-- non-visible light and emitting it as visible light, though they generally -->
+<!-- require daylight to work. -->
+
+A high visibility safety vest might be the easiest way to add bright
+colors. There's also all sorts of bicycle and motorcycle gear in these
+colors. But even wearing white instead of black can improve visibility.
 
 [^chartreuse]: This is according to the CIE, an international organization that
     produces some technical color standards. It comes from their photopic and
@@ -51,14 +55,14 @@ retroreflective elements. Retroreflective tape is also pretty cheap and can be
 added to helmets, wheels, and other gear.
 
 For lights, I recommend a red rear light and a white front light, since drivers
-are typically familiar with those. Blinking lights are often more conspicuous
-than steady lights.[^blinking] Even in the daytime, lights can prevent crashes
-for both bicyclists and motorcyclists.[^lights]
+are familiar with those. Blinking lights are often more conspicuous than steady
+lights.[^blinking] Even in the daytime, lights can prevent crashes for both
+bicyclists and motorcyclists.[^daytime]
 
 [^blinking]: "The Conspicuity Benefits of Dynamic and Static Bicycle Taillights
     at Night," <https://doi.org/10.1177/1541931213601755>
 
-[^lights]: "The Effects of Motor Vehicle Fleet Daytime Running Lights (DRL) on
+[^daytime]: "The Effects of Motor Vehicle Fleet Daytime Running Lights (DRL) on
     Motorcycle Conspicuity"
     ([link](https://www.nhtsa.gov/sites/nhtsa.gov/files/811504.pdf)), "Safety
     effects of permanent running lights for bicycles: A controlled experiment"
@@ -135,8 +139,8 @@ dangerous. Avoid them.
 
 ## Motorcycle and scooter tips
 
-These tips apply more to people riding with traffic. Ken Whitehouse from HART
-gives a good overview:
+These tips apply more to people riding with traffic. Ken Whitehouse from Honda
+Australia Rider Training gives a good overview:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IqeytI_O-30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -184,9 +188,9 @@ A version of this became legal in Idaho in 1982, so that it's now called the
 Idaho stop. The law allows Idaho cyclists to treat a red light as a stop sign,
 and a stop sign as a yield. Some preliminary evidence suggests that the law did
 not lead to more bike accidents, and may even have prevented them.[^idaho]
-However, the various "studies" I've seen on this topic are relatively informal
-and not published in peer-reviewed journals, so I don't put a lot of weight on
-these results. In any case, data does not show that the Idaho stop is obviously
+However, the various "studies" I've seen on this topic are informal and not
+published in peer-reviewed journals, so I don't put a lot of weight on these
+results. In any case, data does not show that the Idaho stop is obviously
 dangerous.
 
 [^idaho]: "Bicycle Safety and Choice: Compounded Public Cobenefits of the Idaho
@@ -198,9 +202,9 @@ dangerous.
 
 ## Ride on the sidewalk?
 
-It's been found repeatedly that accidents are more likely on the sidewalk than
-on the street.[^sidewalks] The main issue is that drivers generally don't watch
-for vehicles on sidewalks. Another issue, in my experience, is that many
+It's been found repeatedly that bicycle accidents are more likely on the
+sidewalk than on the street.[^sidewalks] The main issue is that drivers don't
+watch for vehicles on sidewalks. Another issue, in my experience, is that many
 sidewalks are more poorly maintained than the street.
 
 [^sidewalks]: See "Risk Factors for Bicycle-Motor Vehicle Collisions at
@@ -227,7 +231,7 @@ way:
 
 [^sidewalks-quote]: From "Sidewalk Bicycling Safety Issues"
 
-Generally, riders who start on the sidewalk should increasingly use the street
+Basically, riders who start on the sidewalk should increasingly use the street
 as they become more familiar with local traffic.
 
 ## Lane-split / filter?
@@ -274,12 +278,13 @@ decelerate faster.
 
 ## Mirror, horn, and turn signals
 
-Rearview mirrors are very useful in traffic. Generally riders get one either
-attached to their helmet or on their wrist. I recommend them to everyone riding
-on the street.
+Rearview mirrors are very useful in traffic. EUC riders can get one attached to
+their helmet or on their wrist. I recommend them to everyone riding on the
+street.
 
 A horn can also come in handy now and then (for example, if a car starts to
-merge into your lane, or pull out in front of you).
+merge into your lane, or pull out in front of you). Electric horns made for
+bicycles can work well, and some EUC apps have horn capabilities too.
 
 There are some turn signal lights made for cyclists, but they aren't strictly
 needed. Since our hands are free on a unicycle, we can use the bicycle hand
