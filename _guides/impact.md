@@ -74,14 +74,15 @@ And here are the CE requirements for motorcycle protectors:
 | Chest                   | 50         | 18                 | 15                 |
 
 The 50 Joules impact in these requirements is a 5kg weight dropped 1 meter. In
-response to this realistic impact, the requirements allow motorcycle protectors
-to transmit large amounts of force. Even level 2 motorcycle pads can transmit
-more force than a kick from a professional fighter, though they should be less
-jarring than the level 1 pads.
+response to this impact, the requirements allow motorcycle protectors to
+transmit large amounts of force. Even level 2 motorcycle pads can transmit more
+force than a kick from a professional fighter, though they should be less
+jarring than the level 1 pads. These test impacts are on the harder side of what
+you might experience in an EUC crash, but still realistic.
 
 For those who aren't prepared to take this kind of beating, companies like
 Forcefield, SAS-TEC, and D3O make premium pads that far surpass the level 2
-requirements. You can also reduce the force by doubling the pads[^doubling].
+requirements. You can also reduce the force by doubling the pads.[^doubling]
 
 [^doubling]: See [Assessing the performance of motorcyclists’ impact protectors
     in simulated ATD knee and shoulder
