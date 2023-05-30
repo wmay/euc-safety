@@ -77,10 +77,10 @@ road:
 - How abrasion resistant is the lining on the parts of the jacket not covered by
   a hard shell?
   
-Because good quality hard shells can provide high levels of abrasion resistance,
-I think it's most sensible to treat quality body armor jackets like a good mesh
-street jacket. Usually these jackets are certified for urban riding,
-i.e. maximum speeds of around 40mph.
+Because plastic shells can provide high levels of abrasion resistance, I think
+it's sensible to treat quality body armor jackets like a mesh street
+jacket. Usually these jackets are certified for urban riding, i.e. maximum
+speeds of around 40mph.
 
 # Motorcycle clothing
 

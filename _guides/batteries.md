@@ -186,7 +186,7 @@ per 1 Wh," which translates to 2 or 3 of their 55 liter bags for a larger EUC.
 As of January 2023, the Dutch standard NTA 8133 is the only relevant fire
 extinguisher certification I know of. This standard requires testing a 9 liter
 extinguisher to show it can put out a 600Wh battery fire. Unfortunately this is
-of limited use since EUC batteries are often larger. The Dutch testing company
+of limited use since EUC batteries are usually larger. The Dutch testing company
 Kiwa has some sobering advice for the use of these fire extinguishers
 (translated from Dutch
 [here](https://www-kiwa-com.translate.goog/nl/nl/markten/brandveiligheid-en-beveiliging/nieuws/lijst-nta-8133-geteste-blustoestellen-voor-lithiumbranden-gepubliceerd/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en)
