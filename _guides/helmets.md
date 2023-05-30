@@ -44,6 +44,12 @@ second most important feature is a technology like MIPS that reduces head
 rotation. (It can also help to get a brighter color for [traffic visibility]({{
 site.baseurl }}{% link _guides/traffic.md %}).)
 
+Sellers of cheap helmets on sites like Amazon and AliExpress may lie about
+helmet certifications. See the show *Fake Britain* examine a [fake bike
+helmet](https://youtu.be/alQY9MJr3o8) and a [fake motorcycle
+helmet](https://youtu.be/mdWvU9RF5ew).
+{: class="warning"}
+
 The specific type of motorcycle helmet I recommend for most riders is a
 dual-sport helmet with ECE certification. The reasoning behind these
 recommendations is explained further down.
