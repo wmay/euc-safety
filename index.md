@@ -23,6 +23,9 @@ Then, the links here lead to a short guide for each type of gear:
 In some cases you can also avoid injuries by knowing [how to fall]({{
 site.baseurl }}{% link _guides/falling.md %}).
 
+There are lots of strategies for riding safely in [traffic]({{ site.baseurl }}{%
+link _guides/traffic.md %}).
+
 And one more-- a [battery safety guide]({{ site.baseurl }}{% link
 _guides/batteries.md %}), since the lithium-ion batteries in most wheels can be
 a fire hazard.
