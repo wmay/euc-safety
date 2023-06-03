@@ -142,10 +142,10 @@ standards intermediate between bikes and motorcycles: Snell's L-98 standard for
 moped helmets and the Dutch NTA standard for e-bike helmets. The Snell L-98
 standard is meant for vehicles traveling below highway speeds, while the NTA
 e-bike standard is meant for e-bikes traveling up to 28mph (the legal top speed
-for e-bikes in the Netherlands). Unfortunately, as of May 2023, no helmets have
+for e-bikes in the Netherlands). Unfortunately, as of June 2023, no helmets have
 the moped certification, but at least we can use it for comparison. I currently
-know of two full face helmets with the e-bike certification, The Beam's Virgo
-and Bell's Full-10 Spherical.
+know of three full face helmets with the e-bike certification, The Beam's Virgo,
+Bell's Full-10 Spherical, and Bluegrass' Vanguard.
 
 Many helmet standards, including these, use a common impact testing scheme,
 which involves dropping a dummy head in a helmet onto an anvil and measuring the
