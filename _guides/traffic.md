@@ -121,9 +121,10 @@ lanes.
 that unexpectedly opens.
 
 *Right hook.* Drivers turning right often fail to check for cyclists riding to
-their right, and may turn into you at an intersection. Be cautious at
-intersections when this could happen. (For countries that drive on the left side
-of the road, it's a left hook.)
+their right, and may turn into you at an intersection. A simple way to avoid
+this is to take the lane while riding through the intersection, even if there's
+a bike lane. (For countries that drive on the left side of the road, it's a left
+hook.)
 
 *Take the lane.* When it's not safe for a car to pass, "take the lane" by moving
 to the middle or inside portion of the lane, as opposed to the outer portion
@@ -132,10 +133,9 @@ them to change lanes to pass. I often find taking the lane useful at
 intersections where passing can become confusing and chaotic.
 
 *Avoid large vehicles.* Large vehicles like buses and 18-wheelers are especially
-dangerous. Avoid them.
-
-<!-- Bicycling in Traffic, by Diana Lewiston. Looks super interesting! -->
-<!-- https://thinkbicyclingblog.files.wordpress.com/2012/04/bicycling_in_traffic_lewiston_1988.pdf -->
+dangerous. They may have more blind spots, and turn in ways that can be
+difficult to predict. See [this video](https://youtu.be/SqmBgjS5klo) from the
+Chicago DOT for more details on buses and bikes.
 
 ## Motorcycle and scooter tips
 
@@ -205,7 +205,8 @@ dangerous.
 It's been found repeatedly that bicycle accidents are more likely on the
 sidewalk than on the street.[^sidewalks] The main issue is that drivers don't
 watch for vehicles on sidewalks. Another issue, in my experience, is that many
-sidewalks are more poorly maintained than the street.
+sidewalks are more poorly maintained than the street. It's also illegal in many
+US cities.
 
 [^sidewalks]: See "Risk Factors for Bicycle-Motor Vehicle Collisions at
     Intersections"
@@ -233,6 +234,10 @@ way:
 
 Basically, riders who start on the sidewalk should increasingly use the street
 as they become more familiar with local traffic.
+
+Both the League of American Bicyclists ([here](https://youtu.be/1icY11n7Tzk))
+and BikeSafe ([here](https://youtu.be/j-mFhO4scPQ)) have advice for safely
+riding on sidewalks.
 
 ## Lane-split / filter?
 
@@ -303,3 +308,18 @@ If you live in the US, consider increasing your uninsured motorist coverage:
 
 But getting an insurance payout could be tricky if you live in a state where
 EUCs are not officially street legal, which is the case in most of the US.
+
+# More resources
+
+- [Enjoy the Ride - Essential Bicycling Skills](https://youtu.be/5s5hJhLBUec), a
+  somewhat cheesy but informative video produced by the League of American
+  Bicyclists
+- [BikeSafe video
+  guides](https://youtube.com/playlist?list=PL27p6aWut82S5QLy3SQgBWh5lhTV_rsrO)
+- [Bicycling in
+  Traffic](https://thinkbicyclingblog.files.wordpress.com/2012/04/bicycling_in_traffic_lewiston_1988.pdf),
+  by Diana Lewiston. A text with great diagrams and advice for many different
+  traffic situations.
+- The MSF's [Basic eCourse](https://msf-usa.org/ecourses/basic-ecourse/). This
+  online course is required before the in-person MSF course. It costs $20 and
+  covers defensive riding strategies for motorcyclists.
