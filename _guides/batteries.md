@@ -263,5 +263,19 @@ certification requires compliance with [IEC
 which includes tests for crushing, mechanical shock, overcharging, short
 circuits, and more.
 
+In 2019, the European Commission funded a study of e-scooters, e-bikes,
+hoverboards, and electric unicycles, to test their compliance with European
+regulations, including battery regulations. 3 unicycles were tested, and all
+were found to be compliant with the regulations. In contrast, hoverboards were
+non-compliant due to poor water resistance. Many e-scooters and e-bikes were
+also non-compliant, but mostly for mechanical issues that don't apply to
+EUCs.[^casp]
+
+[^casp]: [CASP 2019 - Personal
+    Transporters](https://ec.europa.eu/safety-gate/#/screen/pages/caspPersonalTransporter). I'm
+    annoyed because the graphs in the report mistakenly label the EUCs as
+    non-compliant. The text and numbers in the report, and the results in the
+    detailed annex document, all show that the EUCs were compliant.
+
 <!-- FIA, Guidance on Li Ion Battery Fires: -->
 <!-- https://www.fia.uk.com/static/2a999c49-760b-47e3-b02f96a2ca89ecd9/Guidance-Document-on-Li-Ion-Battery-Fires-12-20-v1.pdf -->
