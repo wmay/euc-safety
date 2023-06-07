@@ -134,8 +134,10 @@ intersections where passing can become confusing and chaotic.
 
 *Avoid large vehicles.* Large vehicles like buses and 18-wheelers are especially
 dangerous. They may have more blind spots, and turn in ways that can be
-difficult to predict. See [this video](https://youtu.be/SqmBgjS5klo) from the
-Chicago DOT for more details on buses and bikes.
+difficult to predict. Don't pass these vehicles on the right. See [this
+video](https://youtu.be/SqmBgjS5klo) from the Chicago DOT for more details on
+buses and bikes, and [CyclingSavvy's page on
+18-wheelers](https://cyclingsavvy.org/what-cyclists-need-to-know-about-trucks/).
 
 ## Motorcycle and scooter tips
 
@@ -316,10 +318,13 @@ EUCs are not officially street legal, which is the case in most of the US.
   Bicyclists
 - [BikeSafe video
   guides](https://youtube.com/playlist?list=PL27p6aWut82S5QLy3SQgBWh5lhTV_rsrO)
+- *Bicycling Street Smarts*, by John Allen. A popular $5 booklet about
+  navigating traffic on a bike.
 - [Bicycling in
   Traffic](https://thinkbicyclingblog.files.wordpress.com/2012/04/bicycling_in_traffic_lewiston_1988.pdf),
   by Diana Lewiston. A text with great diagrams and advice for many different
   traffic situations.
 - The MSF's [Basic eCourse](https://msf-usa.org/ecourses/basic-ecourse/). This
-  online course is required before the in-person MSF course. It costs $20 and
-  covers defensive riding strategies for motorcyclists.
+  online course, which is required before the in-person MSF course, costs $20
+  and covers defensive riding strategies for motorcyclists.
+

@@ -316,9 +316,7 @@ crash. Shatterproof cycling glasses are a better solution.
 ANSI Z87 certified motorcycle glasses or goggles provide an even higher level of
 protection.
 
-# Resources
-
-
+# More resources
 
 - [US CPSC: Which Helmet for Which
   Activity?](https://www.cpsc.gov/safety-education/safety-guides/sports-fitness-and-recreation-bicycles/which-helmet-which-activity)
@@ -327,7 +325,8 @@ protection.
 - [US National Highway Traffic Safety Administration: Motorcycle
   Helmets](https://www.nhtsa.gov/people/injury/pedbimot/NoMigrate/Mcfol2.pdf)
 - [The Dome / helmetfacts.com](https://www.helmetfacts.com)
-- [lidpicker](https://www.lidpicker.com/)
+- [The Lid Picker](https://www.lidpicker.com/), a kit for finding helmets that
+  match your head shape
 - [SHARP](https://sharp.dft.gov.uk/)
 - [Motorcycle Helmet Performance: Blowing the Lid
   Off](https://motorcycleinfo.calsci.com/MotorcyclistHelmets.html), an

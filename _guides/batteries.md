@@ -55,15 +55,15 @@ and EUCs):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bdbx2Wq-xSw?start=1084" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Second, don't allow the batteries to be depleted. The "0%" battery level shown
-by the apps is a safe level, but if the battery is neglected for an extended
-amount of time and goes below that level ("overdischarge"), the battery may be
-badly damaged. Don't attempt to charge it. In this case you should either take
-the batteries to an experienced battery repair person to see how bad the damage
-is, or just recycle them.
+Second, don't allow the batteries to be depleted. I assume that the "0%" battery
+level shown by the apps is a safe level, but if the battery is neglected for an
+extended amount of time and goes below that level ("overdischarge"), the battery
+may be badly damaged. In this case, don't attempt to charge it. You should
+either take the batteries to an experienced battery repair person to see how bad
+the damage is, or just recycle them.
 
 Third, only use chargers compatible with your wheel. Using a charger with a
-higher voltage ("overcharging") will likely start a fire.
+higher voltage ("overcharging") may start a fire.
 
 # When to worry
 
@@ -130,8 +130,8 @@ There are lots of fireproof lithium-ion bags and containers, though most are
 meant only for storing battery packs rather than an entire wheel (and usually
 smaller battery packs like you might see for a
 drone). [FireSak](https://firesak.com/) is one made for EUC riders. I'm not
-fully convinced by the FireSak tests, so I won't endorse it, but it may control
-some fires, especially for smaller battery packs.[^firesak]
+fully convinced by the FireSak tests, but it may control some fires, especially
+for smaller battery packs.[^firesak]
 
 [^firesak]: [Here](https://youtu.be/CUeSSEoxQ1E)'s a video of a FireSak test
     from Ginger On Wheels, who sells the FireSak. Meanwhile, [this
