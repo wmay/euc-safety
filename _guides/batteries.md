@@ -247,35 +247,51 @@ and battery system.[^ul2272]
     e-Mobility
     Devices](https://collateral-library-production.s3.amazonaws.com/uploads/asset_file/attachment/12042/10414_HoverboardSafety_V2R6_FINAL.pdf).
 
-As of November 2022, I'm not aware of any EUCs with UL 2272 certification. In
-the absence of this certification, it's important to buy EUCs from reputable
+IEC 60335-2-114 is another standard for "Personal-e-Transporters" focused on
+electrical safety, and it explicitly includes electric unicycles. IEC is an
+international organization and its standards are voluntary, though many have
+been adopted by the European Union and UL. The standard requires IPX4 water
+resistance and the ability to withstand water immersion up to the
+pedals/floorboard, among other things. IEC 60335-2-114 is put together by the
+IEC's [Technical Committee
+125](https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:23165).
+
+<!-- interesting slideshow on the origins of IEC 60335-2-114 from Energy Safe -->
+<!-- Victoria: -->
+<!-- <https://dokumen.tips/documents/background-iec-60335-2-114-a-iec-60335-2-114-currently-covers-household-devices.html?page=1> -->
+
+As of November 2022, I'm not aware of any EUCs with UL 2272 certification. I'm
+also not aware of any model that claims to meet the IEC 60335-2-114 standard. In
+the absence of these certifications, it's important to buy EUCs from reputable
 manufacturers and distributors who will do basic safety checks. Among other
-things, distributors generally handle replacements for defective parts, and some
-ship wheels with safer battery packs than you'd get directly from the
-manufacturer.
+things, distributors handle recalls of defective parts, and some ship wheels
+with safer battery packs than you'd get directly from the manufacturer.
 
 For the batteries themselves, there's both UL 2271 and CE certification. Of the
 two, UL 2271 is more comprehensive, and I don't know if any EUC batteries
 currently have it. On the other hand, most if not all EUC batteries have CE
 certification because it's required to sell the batteries in Europe. CE
-certification requires compliance with [IEC
+certification requires compliance with [EN
 62133-2](https://www.batterypoweronline.com/news/battery-safety-standards-update-iec-62133-undergoes-major-changes/),
 which includes tests for crushing, mechanical shock, overcharging, short
 circuits, and more.
 
 In 2019, the European Commission funded a study of e-scooters, e-bikes,
 hoverboards, and electric unicycles, to test their compliance with European
-regulations, including battery regulations. 3 unicycles were tested, and all
-were found to be compliant with the regulations. In contrast, hoverboards were
-non-compliant due to poor water resistance. Many e-scooters and e-bikes were
-also non-compliant, but mostly for mechanical issues that don't apply to
-EUCs.[^casp]
+standards, including EN 62133-2 and IEC 60335-2-114. 3 unicycles were tested,
+and all were found to be compliant with the standards.[^casp] So there's some
+evidence, albeit very limited, that many EUCs meet the relevant safety
+standards.
 
 [^casp]: [CASP 2019 - Personal
     Transporters](https://ec.europa.eu/safety-gate/#/screen/pages/caspPersonalTransporter). I'm
     annoyed because the graphs in the report mistakenly label the EUCs as
     non-compliant. The text and numbers in the report, and the results in the
-    detailed annex document, all show that the EUCs were compliant.
+    detailed annex document, all show that the EUCs were compliant. In contrast
+    to the EUCs, hoverboards were non-compliant due to poor water
+    resistance. Many e-scooters and e-bikes were also non-compliant, but mostly
+    for mechanical issues that don't apply to EUCs. Unfortunately they don't say
+    which models were tested.
 
 <!-- FIA, Guidance on Li Ion Battery Fires: -->
 <!-- https://www.fia.uk.com/static/2a999c49-760b-47e3-b02f96a2ca89ecd9/Guidance-Document-on-Li-Ion-Battery-Fires-12-20-v1.pdf -->
