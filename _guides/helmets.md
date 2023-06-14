@@ -274,9 +274,10 @@ speeds imply that the 99<sup>th</sup> percentile of EUC head impacts is
 significantly lower than that for motorcycles.
 
 [^percentiles]: For the 90<sup>th</sup> percentile estimate, see the Hurt
-    report, p. 279. For the 99<sup>th</sup> percentile estimate, see [Comparison
-    Tests of Motorcycle Helmets Qualified to International
-    Standards](https://msf-usa.org/wp-content/uploads/2021/07/PG1-pdf.pdf), p. 6
+    report, p. 279. For the 99<sup>th</sup> percentile estimate, see [Conflicts
+    of Contemporary Motorcycle Helmet
+    Standards](https://smf.org/docs/articles/hic/Conflicts_of_helmet_stds_AAAM_1992.pdf),
+    p. 165.
 
 [^speed]: See the Hurt report, p. 213-215
 
