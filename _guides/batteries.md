@@ -122,7 +122,7 @@ carbon monoxide.
 Unlike many other fires, spraying water will not stop a lithium-ion battery
 fire. Instead, you need to *completely submerge* the batteries in water. When
 submerged, the water cools the batteries enough to end the thermal
-runaway. (When removed from the water, the batteries can reignite again.)
+runaway. (When removed from the water, the batteries can ignite again.)
 
 ## Fireproof sacks/cases
 

@@ -76,12 +76,13 @@ fall](https://youtu.be/PiLyqGu2XKI). The idea is to spread out the impact by
 hitting (in sequence) your feet, calf, thigh, hip/butt, and then back. This
 seems like one of the safer ways to fall sideways.
 
-I don't think rolling works as well on unicycles as it does for parkour. I say
-that because
+Here's why I don't think rolling works as well on unicycles as it does for other
+sports:
 
 1. There are safer alternatives if you're wearing proper gear (i.e. sliding on
    kneepads),
-2. The standing position on a unicycle is relatively awkward to roll out of, and
+2. The standing position on a unicycle is relatively awkward to roll out of,
+   especially for forward rolls, and
 3. Rolling at high speeds can lead to chaotic tumbling. For example, compare the
    relaxed slide in this video at 1:54 with the chaotic tumble at 3:02:
 

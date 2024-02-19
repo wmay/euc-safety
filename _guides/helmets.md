@@ -89,9 +89,8 @@ quieter than off-road helmets, and off-road helmets can offer greater peripheral
 vision.
 
 **Ventilation:** Due to the face shield blocking airflow, street helmets have
-less ventilation than off-road helmets. Off-road helmets are also explicitly
-designed to provide more airflow for riders that may be exerting themselves
-while riding slowly through tricky terrain.
+less ventilation than off-road helmets. Off-road helmets' pointy chinbars also
+provide more airflow to a rider's face.
   
 **Noise:** Street helmets are typically designed to be quieter, which is good at
 high speeds and around cars, but may be a nuisance at lower speeds and around
@@ -300,9 +299,10 @@ year. You can search the NHTSA's helmet test results on their clunky website
 [here](https://one.nhtsa.gov/cars/problems/comply/Index.cfm). Unfortunately chin
 bars and face shields are not tested for DOT certification.
 
-SHARP and CRASH are two more helmet testing organizations. Both use a 5-star
-rating system to evaluate helmets, which can be useful for getting additional
-info.
+[SHARP](https://sharp.dft.gov.uk/) and
+[CRASH](https://www.motocap.com.au/products/helmets) are two more helmet testing
+organizations. Both use a 5-star rating system to evaluate helmets, which can be
+useful for getting additional info.
 
 # Eye protection
 
@@ -328,7 +328,6 @@ protection.
 - [The Dome / helmetfacts.com](https://www.helmetfacts.com)
 - [The Lid Picker](https://www.lidpicker.com/), a kit for finding helmets that
   match your head shape
-- [SHARP](https://sharp.dft.gov.uk/)
 - [Motorcycle Helmet Performance: Blowing the Lid
   Off](https://motorcycleinfo.calsci.com/MotorcyclistHelmets.html), an
   influential article about the foam hardness debate

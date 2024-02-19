@@ -17,8 +17,7 @@ strategies to deal with them.
 One major issue is that drivers often fail to notice small vehicles, so it can
 help to make yourself more conspicuous with bright colors and lights. Defensive
 riding habits can also make a huge difference. And there are a bunch of
-miscellaneous actions a rider can take to make street riding safer or less
-risky.
+miscellaneous actions a rider can take to make street riding less risky.
 
 # Visibility
 
@@ -117,14 +116,16 @@ for the sake of organization.
 These tips generally apply to people riding on the side of the road and in bike
 lanes.
 
+<!-- should I add Kelsey Leigh's video?: https://www.youtube.com/watch?v=RxYxQnGxaAI -->
+
 *Dooring.* Avoid riding close to parked cars to avoid colliding with a car door
 that unexpectedly opens.
 
 *Right hook.* Drivers turning right often fail to check for cyclists riding to
 their right, and may turn into you at an intersection. A simple way to avoid
 this is to take the lane while riding through the intersection, even if there's
-a bike lane. (For countries that drive on the left side of the road, it's a left
-hook.)
+a bike lane. (For countries that drive on the left side of the road, or for bike
+lanes on the left, it will be a left hook.)
 
 *Take the lane.* When it's not safe for a car to pass, "take the lane" by moving
 to the middle or inside portion of the lane, as opposed to the outer portion
@@ -190,10 +191,9 @@ A version of this became legal in Idaho in 1982, so that it's now called the
 Idaho stop. The law allows Idaho cyclists to treat a red light as a stop sign,
 and a stop sign as a yield. Some preliminary evidence suggests that the law did
 not lead to more bike accidents, and may even have prevented them.[^idaho]
-However, the various "studies" I've seen on this topic are informal and not
-published in peer-reviewed journals, so I don't put a lot of weight on these
-results. In any case, data does not show that the Idaho stop is obviously
-dangerous.
+However, the "studies" I've seen on this topic are informal and not published in
+peer-reviewed journals, so I don't put a lot of weight on these results. In any
+case, data does not show that the Idaho stop is obviously dangerous.
 
 [^idaho]: "Bicycle Safety and Choice: Compounded Public Cobenefits of the Idaho
     Law Relaxing Stop Requirements for Cycling" (a self-published study from a
@@ -207,8 +207,8 @@ dangerous.
 It's been found repeatedly that bicycle accidents are more likely on the
 sidewalk than on the street.[^sidewalks] The main issue is that drivers don't
 watch for vehicles on sidewalks. Another issue, in my experience, is that many
-sidewalks are more poorly maintained than the street. It's also illegal in many
-US cities.
+sidewalks are more poorly maintained than the street. Sidewalk riding is also
+illegal in many US cities.
 
 [^sidewalks]: See "Risk Factors for Bicycle-Motor Vehicle Collisions at
     Intersections"
