@@ -77,8 +77,8 @@ guards](https://shop.fxnctiongear.com/products/fxnction-shredder-wrist-guards-fu
 are similar, but without the top splint.
 
 E-skate gloves require more flexibility (to hold an e-skate remote), but often
-still include wrist protection. flatland3d's [Pro e-skate
-gloves](https://flatland3d.com/shop/all-products/all-e-skate-accessories/fingerless-pro-e-skate-glove/)
+still include wrist protection. flatland3d's [Carbon E-Skate
+Gloves](https://flatland3d.com/shop/all-products/all-e-skate-accessories/carbon-e-skate-glove)
 have both Knox palm sliders and a flexible top splint. The palm sliders allow
 hands to move more but don't protect as much as a skate-style wrist guard.
 
