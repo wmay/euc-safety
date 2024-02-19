@@ -30,6 +30,14 @@ provide comparable protection.
 | Urban-rated motorcycle clothing   | <40               | EN 17092 class A  |
 | Touring-rated motorcycle clothing | <75               | EN 17092 class AA |
 
+Many sellers of cheap gear on sites like Amazon and AliExpress lie about the
+material of their motorcycle garments, claiming to use expensive abrasion
+resistant materials. On these sites, I suspect that many "Cordura" jackets are
+actually polyester, and many "leather" jackets are synthetic leather, aka
+pleather. It's not clear that they provide more protection than a regular
+jacket.
+{: class="warning"}
+
 # Skate pads
 
 The European roller sports standard, EN 14120, tests pads for both abrasion
@@ -135,14 +143,6 @@ Another source of information is the Australian testing group
 [MotoCAP](https://www.motocap.com.au/). Their standards are high, and you should
 expect the kind of urban riding gear that's relevant to most EUC riding to
 achieve something like 2 out of 5 stars on their scale.
-
-Many sellers of cheap gear on sites like Amazon and AliExpress lie about the
-material of their motorcycle garments, claiming to use expensive abrasion
-resistant materials. On these sites, I suspect that many "Cordura" jackets are
-actually polyester, and many "leather" jackets are synthetic leather, aka
-pleather. It's not clear that they provide more protection than a regular
-jacket.
-{: class="warning"}
 
 The Institute for Frontier Materials published an in-depth review document, [A
 guide to designing and manufacturing motorcycle protective

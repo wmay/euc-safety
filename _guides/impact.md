@@ -32,6 +32,13 @@ clothing]({{ site.baseurl }}{% link _guides/abrasion.md %}) with internal
 pads. Not only will this clothing protect you from road rash, it will also hold
 the pads in place during a slide.
 
+Jacket pads made of plastic or EVA foam (the type of foam used in skate pads)
+that claim to be CE certified are probably fake. In order to meet motorcycle CE
+requirements, EVA foam would have to be too thick to fit in a jacket, and
+plastic by itself provides no real impact protection. These fakes are common in
+cheap gear, including popular brands HWK and Viking Cycle.
+{: class="warning"}
+
 # Skate vs motorcycle standards
 
 Motorcycle protectors are usually CE certified, even though the certification is
@@ -121,13 +128,6 @@ mold to your body and harden on impact. Ryan from FortNine demonstrates some
 viscoelastic pads in this video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hA3ww6Sr5-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Street pads made of plastic or EVA foam (the type of foam used in skate pads)
-that claim to be CE certified are probably fake. In order to meet motorcycle CE
-requirements, EVA foam would have to be too thick to fit in a jacket, and
-plastic by itself provides no real impact protection. These fakes are common in
-cheap gear, including popular brands HWK and Viking Cycle.
-{: class="warning"}
 
 Aside from comfort, the benefit of street protectors is that the motorcycle
 clothing they come in is more likely to hold together in a high-speed crash. A
