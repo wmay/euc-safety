@@ -19,7 +19,10 @@ Electric Unicycle
 Forum](https://forum.electricunicycle.org/topic/21506-fire-history/#comment-353291)
 has only found 58 as of November 2022. Estimates put the number of EUCs at more
 than 100,000, so the resulting odds of a fire are less than 1 in a thousand
-wheels.
+wheels. Many of these fires have been concentrated in a handful of Begode
+models, so for other models the odds are probably less than 1 in 10 thousand.
+And this statistic includes the obvious cases of misuse like a wheel being
+dropped in a lake.
 
 Still, there's plenty you can do to reduce the risk.
 
@@ -27,10 +30,11 @@ In the absence of important safety certifications like UL 2272, it's important
 to buy EUCs from reputable manufacturers and distributors who will do basic
 safety checks.
 
-You can further ensure your safety by keeping a smoke detector nearby, following
-a few simple charging rules, monitoring your wheel's voltage levels, and
-inspecting your batteries yearly. A fireproof container or fire extinguisher
-tested specifically for lithium-ion battery fires can also help.
+You can further ensure your safety by following a few simple charging rules,
+keeping a smoke detector near where the wheel is stored and charged, monitoring
+your wheel's voltage levels, and inspecting your batteries yearly. A fireproof
+container or fire extinguisher tested specifically for lithium-ion battery fires
+can also help.
 
 A couple of wheels are sold with lithium iron phosphate (LiFePO4)
 batteries. These batteries will not have the same thermal runaway as regular
@@ -47,13 +51,8 @@ lithium-ion batteries, so the fire risk is removed.
 
 There are just a few things to do regarding charging.
 
-First, balance your batteries regularly. This implies fully charging the battery
-and leaving it on the charger for a few more hours. When the pack is nearly
-fully charged, it will automatically start balancing the cells. Onewheel expert
-Mario Contino explains in detail here (this generally applies to both Onewheels
-and EUCs):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bdbx2Wq-xSw?start=1084" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+First, only use chargers compatible with your wheel. Using a charger with a
+higher voltage ("overcharging") may start a fire.
 
 Second, don't allow the batteries to be depleted. I assume that the "0%" battery
 level shown by the apps is a safe level, but if the battery is neglected for an
@@ -62,8 +61,13 @@ may be badly damaged. In this case, don't attempt to charge it. You should
 either take the batteries to an experienced battery repair person to see how bad
 the damage is, or just recycle them.
 
-Third, only use chargers compatible with your wheel. Using a charger with a
-higher voltage ("overcharging") may start a fire.
+Third, balance your batteries regularly. This implies fully charging the battery
+and leaving it on the charger for a few more hours. When the pack is nearly
+fully charged, it will automatically start balancing the cells. Onewheel expert
+Mario Contino explains in detail here (this generally applies to both Onewheels
+and EUCs):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bdbx2Wq-xSw?start=1084" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # When to worry
 
@@ -107,7 +111,8 @@ for smaller battery packs, because containers made for larger battery fires are
 expensive.
 
 In my opinion, a fire extinguisher (one tested specifically on lithium-ion
-battery fires) is the most practical way to stop most fires.
+battery fires) is the most practical way to stop most fires. Though even this
+option may not be safe in many cases.
 
 Battery fires often reignite after being extinguished with traditional
 extinguishers or water.
