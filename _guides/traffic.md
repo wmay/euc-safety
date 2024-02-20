@@ -121,6 +121,11 @@ lanes.
 *Dooring.* Avoid riding close to parked cars to avoid colliding with a car door
 that unexpectedly opens.
 
+*Ride predictably.* Drivers will have an easier time accommodating EUC riders if
+they act predictably. That includes things like following the normal rules of
+the road and signaling before turns. If carving, keep in mind that carving looks
+unpredictable to many drivers.
+
 *Right hook.* Drivers turning right often fail to check for cyclists riding to
 their right, and may turn into you at an intersection. A simple way to avoid
 this is to take the lane while riding through the intersection, even if there's
@@ -177,7 +182,9 @@ even if you make eye contact. Ride with the assumption that they haven't seen
 you.
 
 *Escape route.* Position yourself so that you have an easy escape route if a
-vehicle moves dangerously toward you.
+vehicle moves dangerously toward you. For example, instead of stopping directly
+behind a car at a stoplight, you could stop behind the left or right side of the
+car, so that it's easier to dart out of the way.
 
 # Should you...
 
